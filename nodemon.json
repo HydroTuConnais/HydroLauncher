@@ -2,7 +2,9 @@
   "watch": [
     "app/**/*.js",
     "app/**/*.ejs",
-    "app/**/*.json"
+    "app/*.ejs",
+    "app/**/*.json",
+    "app/**/*.css"
   ],
   "ext": "js,ejs,json",
   "exec": "electron ."
