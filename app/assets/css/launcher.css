@@ -3159,6 +3159,7 @@ input:checked + .toggleSwitchSlider:before {
 
 /* Style for a general label on the bottom of the landing view. */
 .bot_label {
+    flex-direction: row;
     font-size: 9px;
     letter-spacing: 1px;
     font-weight: bold;
@@ -3186,13 +3187,12 @@ input:checked + .toggleSwitchSlider:before {
 
 /* Span which displays the player count of the selected server. */
 #player_count {
-    color: #949494;
-    font-size: 8px;
-    font-weight: 900;
-    text-shadow: 0px 0px 20px #949494;
+    color: #949494; 
+    font-size: 8px; 
+    font-weight: 900; 
+    text-shadow: 0px 0px 20px #949494; 
     margin-left: 10px;
 }
-
 /* Wrapper container for the mojang status bar. */
 #mojangStatusWrapper {
     position: relative;
