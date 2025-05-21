@@ -11,113 +11,29 @@
     "rss": "https://forum.westeroscraft.com/forum/news.2/index.rss",
     "servers": [
         {
-            "id": "WesterosCraft-1.11.2",
-            "name": "WesterosCraft Production Server",
-            "description": "Main WesterosCraft server. Connect to enter the Realm.",
-            "icon": "http://mc.westeroscraft.com/WesterosCraftLauncher/files/server-prod.png",
-            "version": "3.9.4",
+            "id": "serv-test-1.18.2",
+            "name": "serv test",
+            "description": "Test server with Forge for Minecraft 1.18.2.",
+            "icon": "http://mc.westeroscraft.com/WesterosCraftLauncher/files/server-test.png",
+            "version": "1.0.0",
             "address": "mc.westeroscraft.com",
-            "minecraftVersion": "1.11.2",
+            "minecraftVersion": "1.18.2",
             "discord": {
-                "shortId": "Production",
-                "largeImageText": "WesterosCraft Production Server",
-                "largeImageKey": "server-prod"
+                "shortId": "Test Server 1.18.2",
+                "largeImageText": "serv test",
+                "largeImageKey": "server-test"
             },
             "mainServer": true,
             "autoconnect": true,
             "modules": [
                 {
-                    "id": "net.minecraftforge:forge:1.11.2-13.20.1.2429",
+                    "id": "net.minecraftforge:forge:1.18.2-40.1.0",
                     "name": "Minecraft Forge",
                     "type": "ForgeHosted",
                     "artifact": {
-                        "size": 4450992,
-                        "MD5": "3fcc9b0104f0261397d3cc897e55a1c5",
-                        "url": "http://files.minecraftforge.net/maven/net/minecraftforge/forge/1.11.2-13.20.1.2429/forge-1.11.2-13.20.1.2429-universal.jar"
-                    }
-                }
-            ]
-        },
-        {
-            "id": "WesterosCraftTest-1.11.2",
-            "name": "WesterosCraft Test Server",
-            "description": "Main testing server. Experimental changes are live here.",
-            "icon": "http://mc.westeroscraft.com/WesterosCraftLauncher/files/server-test.png",
-            "version": "3.9.4",
-            "address": "mc.westeroscraft.com:4444",
-            "minecraftVersion": "1.11.2",
-            "discord": {
-                "shortId": "Test Server",
-                "largeImageText": "WesterosCraft Test Server",
-                "largeImageKey": "server-test"
-            },
-            "mainServer": false,
-            "autoconnect": true,
-            "modules": [
-                {
-                    "id": "net.minecraftforge:forge:1.11.2-13.20.1.2476",
-                    "name": "Minecraft Forge",
-                    "type": "ForgeHosted",
-                    "artifact": {
-                        "size": 4455536,
-                        "MD5": "7cef816cc01d53a04a180f0214d2982a",
-                        "url": "http://mc.westeroscraft.com/WesterosCraftLauncher/files/1.11.2/forge-1.11.2-13.20.1.2476-universal.jar"
-                    }
-                }
-            ]
-        },
-        {
-            "id": "WesterosCraftTest-1.12.2",
-            "name": "WesterosCraft 1.12.2 Test Server",
-            "description": "Tests for our version change to 1.12.2 are live here.",
-            "icon": "http://mc.westeroscraft.com/WesterosCraftLauncher/files/server-test.png",
-            "version": "4.2.1",
-            "address": "mc.westeroscraft.com:4445",
-            "minecraftVersion": "1.12.2",
-            "discord": {
-                "shortId": "1.12.2 Test Server",
-                "largeImageText": "WesterosCraft 1.12.2 Test Server",
-                "largeImageKey": "server-test"
-            },
-            "mainServer": false,
-            "autoconnect": true,
-            "modules": [
-                {
-                    "id": "net.minecraftforge:forge:1.12.2-14.23.5.2797",
-                    "name": "Minecraft Forge",
-                    "type": "ForgeHosted",
-                    "artifact": {
-                        "size": 4937218,
-                        "MD5": "5320593704af58b3906e7106d27e41c8",
-                        "url": "http://mc.westeroscraft.com/WesterosCraftLauncher/files/1.12.2/forge-1.12.2-14.23.5.2797-universal.jar"
-                    }
-                }
-            ]
-        },
-        {
-            "id": "WesterosCraftTest-1.13.2",
-            "name": "WesterosCraft 1.13.2 Test Server",
-            "description": "Tests for our version change to 1.13.2 are live here.",
-            "icon": "http://mc.westeroscraft.com/WesterosCraftLauncher/files/server-test.png",
-            "version": "5.0.0",
-            "address": "mc.westeroscraft.com:4445",
-            "minecraftVersion": "1.13.2",
-            "discord": {
-                "shortId": "1.13.2 Test Server",
-                "largeImageText": "WesterosCraft 1.13.2 Test Server",
-                "largeImageKey": "server-test"
-            },
-            "mainServer": false,
-            "autoconnect": false,
-            "modules": [
-                {
-                    "id": "net.minecraftforge:forge:1.13.2-25.0.219",
-                    "name": "Minecraft Forge (base jar)",
-                    "type": "ForgeHosted",
-                    "artifact": {
-                        "size": 159918,
-                        "MD5": "c5a9c40711feb2b4ab0329c48256e30d",
-                        "url": ""
+                        "size": 5867951,
+                        "MD5": "f9dbb43e97e3a91d88c7e01f2516d5cd",
+                        "url": "https://files.minecraftforge.net/maven/net/minecraftforge/forge/1.18.2-40.1.0/forge-1.18.2-40.1.0-installer.jar"
                     }
                 }
             ]
