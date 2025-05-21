@@ -33,7 +33,7 @@
                     "artifact": {
                         "size": 5867951,
                         "MD5": "f9dbb43e97e3a91d88c7e01f2516d5cd",
-                        "url": "https://files.minecraftforge.net/maven/net/minecraftforge/forge/1.18.2-40.1.0/forge-1.18.2-40.1.0-installer.jar"
+                        "url": "https://maven.minecraftforge.net/net/minecraftforge/forge/1.18.2-40.3.10/forge-1.18.2-40.3.10-installer.jar"
                     }
                 }
             ]
