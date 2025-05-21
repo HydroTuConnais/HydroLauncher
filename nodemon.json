@@ -1,0 +1,9 @@
+{
+  "watch": [
+    "app/**/*.js",
+    "app/**/*.ejs",
+    "app/**/*.json"
+  ],
+  "ext": "js,ejs,json",
+  "exec": "electron ."
+}
