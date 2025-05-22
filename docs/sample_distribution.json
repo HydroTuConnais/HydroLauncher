@@ -45114,6 +45114,17 @@
           }
         },
         {
+          "id": "options.txt",
+          "name": "options.txt",
+          "type": "File",
+          "artifact": {
+            "size": 11012,
+            "url": "http://localhost:8080/servers/hydro-cobblemon-1.20.1/files/options.txt",
+            "MD5": "f6e235089f0afbd54e8591df3c743592",
+            "path": "options.txt"
+          }
+        },
+        {
           "id": "fire_beam.particle.json",
           "name": "fire_beam.particle.json",
           "type": "File",
