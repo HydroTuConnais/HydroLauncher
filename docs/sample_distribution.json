@@ -13,7 +13,7 @@
       "description": "hydro-cobblemon Running Minecraft 1.20.1 (Fabric v0.16.14)",
       "icon": null,
       "version": "1.0.0",
-      "address": "localhost:25565",
+      "address": "cobblemon.hydro-dev.ovh:25565",
       "minecraftVersion": "1.20.1",
       "discord": {
         "shortId": "",
