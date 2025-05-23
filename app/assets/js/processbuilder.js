@@ -1031,10 +1031,44 @@ class ProcessBuilder {
           if (stat.isDirectory()) {
               copyDir(srcPath, destPath)
           } else {
-              fs.copyFileSync(srcPath, destPath)
+              if (file.endsWith('.jar')) {
+                fs.copyFileSync(srcPath, destPath)
+                Console.log(`Copie de ${srcPath} vers ${destPath}`)
+            }
           }
       }
   }
+
+async saveDropinModConfiguration() {
+    // Récupère le serveur courant
+    const serv = (await DistroAPI.getDistribution()).getServerById(ConfigManager.getSelectedServer())
+    const modsDir = path.join(ConfigManager.getInstanceDirectory(), serv.rawServer.id, 'mods')
+
+    // Scan les mods présents dans le dossier
+    const dropinMods = DropinModUtil.scanForDropinMods(modsDir, serv.rawServer.minecraftVersion)
+
+    for (const dropin of dropinMods) {
+        const dropinUI = document.getElementById(dropin.fullName)
+        if (dropinUI != null) {
+            const dropinUIEnabled = dropinUI.hasAttribute('enabled')
+            const isEnabled = DropinModUtil.isDropinModEnabled(dropin.fullName)
+            // Si l'état du fichier ne correspond pas à l'état de l'UI, on toggle
+            if (isEnabled !== dropinUIEnabled) {
+                await DropinModUtil.toggleDropinMod(modsDir, dropin.fullName, dropinUIEnabled).catch(err => {
+                    if (!isOverlayVisible()) {
+                        setOverlayContent(
+                            Lang.queryJS('settings.dropinMods.failedToggleTitle'),
+                            err.message,
+                            Lang.queryJS('settings.dropinMods.okButton')
+                        )
+                        setOverlayHandler(null)
+                        toggleOverlay(true)
+                    }
+                })
+            }
+        }
+    }
+}
 
   /**
   * Prépare le dossier mods avant le lancement du jeu.
@@ -1045,10 +1079,15 @@ class ProcessBuilder {
       const baseDir = path.join(ConfigManager.getInstanceDirectory(), serv.rawServer.id)
       const modsDir = path.join(baseDir, 'mods')
       const requiredModsDir = path.join(baseDir, 'mods_config', 'required')
+      const optionalModsDir = path.join(baseDir, 'mods_config', 'required')
 
       try {
           this.emptyDir(modsDir)
           this.copyDir(requiredModsDir, modsDir)
+          this.copyDir(optionalModsDir, modsDir)
+
+          // Supprime les fichiers de configuration des mods
+          this.saveDropinModConfiguration();
           console.log('[syncRequiredModsBeforeLaunch] Mods requis copiés avec succès.')
       } catch (err) {
           console.error('[syncRequiredModsBeforeLaunch] Erreur :', err)
