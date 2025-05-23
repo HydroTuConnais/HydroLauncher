@@ -41586,14 +41586,25 @@
           }
         },
         {
+          "id": "Zoomify-2.14.2+1.20.1.jar.disabled",
+          "name": "Zoomify-2.14.2+1.20.1.jar.disabled",
+          "type": "File",
+          "artifact": {
+            "size": 807877,
+            "url": "http://localhost:8080/servers/hydro-cobblemon-1.20.1/files/mods_config/optional/Zoomify-2.14.2+1.20.1.jar.disabled",
+            "MD5": "57d42c12e06bf4c8bbdd3f2d14a786ba",
+            "path": "mods_config/optional/Zoomify-2.14.2+1.20.1.jar.disabled"
+          }
+        },
+        {
           "id": "AdvancementPlaques-1.20.1-fabric-1.6.7.jar",
           "name": "AdvancementPlaques-1.20.1-fabric-1.6.7.jar",
           "type": "File",
           "artifact": {
             "size": 194905,
-            "url": "http://localhost:8080/servers/hydro-cobblemon-1.20.1/files/mods/AdvancementPlaques-1.20.1-fabric-1.6.7.jar",
+            "url": "http://localhost:8080/servers/hydro-cobblemon-1.20.1/files/mods_config/required/AdvancementPlaques-1.20.1-fabric-1.6.7.jar",
             "MD5": "eeca04d9749959c6d2063f6a0d98fb14",
-            "path": "mods/AdvancementPlaques-1.20.1-fabric-1.6.7.jar"
+            "path": "mods_config/required/AdvancementPlaques-1.20.1-fabric-1.6.7.jar"
           }
         },
         {
@@ -41602,9 +41613,9 @@
           "type": "File",
           "artifact": {
             "size": 963837,
-            "url": "http://localhost:8080/servers/hydro-cobblemon-1.20.1/files/mods/amendments-1.20-1.2.12-fabric.jar",
+            "url": "http://localhost:8080/servers/hydro-cobblemon-1.20.1/files/mods_config/required/amendments-1.20-1.2.12-fabric.jar",
             "MD5": "972b0696b702fba1658ac202a721d907",
-            "path": "mods/amendments-1.20-1.2.12-fabric.jar"
+            "path": "mods_config/required/amendments-1.20-1.2.12-fabric.jar"
           }
         },
         {
@@ -41613,9 +41624,9 @@
           "type": "File",
           "artifact": {
             "size": 2733280,
-            "url": "http://localhost:8080/servers/hydro-cobblemon-1.20.1/files/mods/another_furniture-fabric-1.20.1-3.0.1.jar",
+            "url": "http://localhost:8080/servers/hydro-cobblemon-1.20.1/files/mods_config/required/another_furniture-fabric-1.20.1-3.0.1.jar",
             "MD5": "ad7757e3ad83a5a789cdf5932d9a20f9",
-            "path": "mods/another_furniture-fabric-1.20.1-3.0.1.jar"
+            "path": "mods_config/required/another_furniture-fabric-1.20.1-3.0.1.jar"
           }
         },
         {
@@ -41624,9 +41635,9 @@
           "type": "File",
           "artifact": {
             "size": 585207,
-            "url": "http://localhost:8080/servers/hydro-cobblemon-1.20.1/files/mods/architectury-9.2.14-fabric.jar",
+            "url": "http://localhost:8080/servers/hydro-cobblemon-1.20.1/files/mods_config/required/architectury-9.2.14-fabric.jar",
             "MD5": "2ae04e0dad60a390031ee341e0b2ab45",
-            "path": "mods/architectury-9.2.14-fabric.jar"
+            "path": "mods_config/required/architectury-9.2.14-fabric.jar"
           }
         },
         {
@@ -41635,9 +41646,9 @@
           "type": "File",
           "artifact": {
             "size": 1870682,
-            "url": "http://localhost:8080/servers/hydro-cobblemon-1.20.1/files/mods/ati_structures(1.20)_v1.1.0_FABRIC.jar",
+            "url": "http://localhost:8080/servers/hydro-cobblemon-1.20.1/files/mods_config/required/ati_structures(1.20)_v1.1.0_FABRIC.jar",
             "MD5": "a9b52b0194eb97dd03affc95780b3a8d",
-            "path": "mods/ati_structures(1.20)_v1.1.0_FABRIC.jar"
+            "path": "mods_config/required/ati_structures(1.20)_v1.1.0_FABRIC.jar"
           }
         },
         {
@@ -41646,9 +41657,9 @@
           "type": "File",
           "artifact": {
             "size": 27655,
-            "url": "http://localhost:8080/servers/hydro-cobblemon-1.20.1/files/mods/badpackets-fabric-0.4.3.jar",
+            "url": "http://localhost:8080/servers/hydro-cobblemon-1.20.1/files/mods_config/required/badpackets-fabric-0.4.3.jar",
             "MD5": "803e26347a7afb5d9002c08c753531e9",
-            "path": "mods/badpackets-fabric-0.4.3.jar"
+            "path": "mods_config/required/badpackets-fabric-0.4.3.jar"
           }
         },
         {
@@ -41657,9 +41668,9 @@
           "type": "File",
           "artifact": {
             "size": 411509,
-            "url": "http://localhost:8080/servers/hydro-cobblemon-1.20.1/files/mods/balm-fabric-1.20.1-7.3.10.jar",
+            "url": "http://localhost:8080/servers/hydro-cobblemon-1.20.1/files/mods_config/required/balm-fabric-1.20.1-7.3.10.jar",
             "MD5": "26faa1b3d847d747559d89dcf462f3dc",
-            "path": "mods/balm-fabric-1.20.1-7.3.10.jar"
+            "path": "mods_config/required/balm-fabric-1.20.1-7.3.10.jar"
           }
         },
         {
@@ -41668,9 +41679,9 @@
           "type": "File",
           "artifact": {
             "size": 1794706,
-            "url": "http://localhost:8080/servers/hydro-cobblemon-1.20.1/files/mods/bbb-1.20.1-fabric-1.0.2.jar",
+            "url": "http://localhost:8080/servers/hydro-cobblemon-1.20.1/files/mods_config/required/bbb-1.20.1-fabric-1.0.2.jar",
             "MD5": "3c741365604bb4173667f518488d8af0",
-            "path": "mods/bbb-1.20.1-fabric-1.0.2.jar"
+            "path": "mods_config/required/bbb-1.20.1-fabric-1.0.2.jar"
           }
         },
         {
@@ -41679,9 +41690,9 @@
           "type": "File",
           "artifact": {
             "size": 303304,
-            "url": "http://localhost:8080/servers/hydro-cobblemon-1.20.1/files/mods/bitsandchisels-2.7.3.jar",
+            "url": "http://localhost:8080/servers/hydro-cobblemon-1.20.1/files/mods_config/required/bitsandchisels-2.7.3.jar",
             "MD5": "8aa26b5527db8b732912d427adcb9dd8",
-            "path": "mods/bitsandchisels-2.7.3.jar"
+            "path": "mods_config/required/bitsandchisels-2.7.3.jar"
           }
         },
         {
@@ -41690,9 +41701,9 @@
           "type": "File",
           "artifact": {
             "size": 799098,
-            "url": "http://localhost:8080/servers/hydro-cobblemon-1.20.1/files/mods/bobby-5.0.1.jar",
+            "url": "http://localhost:8080/servers/hydro-cobblemon-1.20.1/files/mods_config/required/bobby-5.0.1.jar",
             "MD5": "2aa8b606f9372c9a17f66ed5111d5b0e",
-            "path": "mods/bobby-5.0.1.jar"
+            "path": "mods_config/required/bobby-5.0.1.jar"
           }
         },
         {
@@ -41701,9 +41712,9 @@
           "type": "File",
           "artifact": {
             "size": 43920,
-            "url": "http://localhost:8080/servers/hydro-cobblemon-1.20.1/files/mods/boosted-brightness-2.2.0+1.20.1.jar",
+            "url": "http://localhost:8080/servers/hydro-cobblemon-1.20.1/files/mods_config/required/boosted-brightness-2.2.0+1.20.1.jar",
             "MD5": "dd512a0743aa73ecf2dac23b7787d0d9",
-            "path": "mods/boosted-brightness-2.2.0+1.20.1.jar"
+            "path": "mods_config/required/boosted-brightness-2.2.0+1.20.1.jar"
           }
         },
         {
@@ -41712,9 +41723,9 @@
           "type": "File",
           "artifact": {
             "size": 503384,
-            "url": "http://localhost:8080/servers/hydro-cobblemon-1.20.1/files/mods/Bountiful-6.0.4+1.20.1-fabric.jar",
+            "url": "http://localhost:8080/servers/hydro-cobblemon-1.20.1/files/mods_config/required/Bountiful-6.0.4+1.20.1-fabric.jar",
             "MD5": "a1afe2fc29929415f5c2a50e3c5af1a9",
-            "path": "mods/Bountiful-6.0.4+1.20.1-fabric.jar"
+            "path": "mods_config/required/Bountiful-6.0.4+1.20.1-fabric.jar"
           }
         },
         {
@@ -41723,9 +41734,9 @@
           "type": "File",
           "artifact": {
             "size": 3463478,
-            "url": "http://localhost:8080/servers/hydro-cobblemon-1.20.1/files/mods/Camerapture-1.7.2+mc1.20.1-fabric.jar",
+            "url": "http://localhost:8080/servers/hydro-cobblemon-1.20.1/files/mods_config/required/Camerapture-1.7.2+mc1.20.1-fabric.jar",
             "MD5": "84cb18bd40cf4ba09db5bd9ccb1ecaf7",
-            "path": "mods/Camerapture-1.7.2+mc1.20.1-fabric.jar"
+            "path": "mods_config/required/Camerapture-1.7.2+mc1.20.1-fabric.jar"
           }
         },
         {
@@ -41734,9 +41745,9 @@
           "type": "File",
           "artifact": {
             "size": 443033,
-            "url": "http://localhost:8080/servers/hydro-cobblemon-1.20.1/files/mods/carryon-fabric-1.20.1-2.1.2.7.jar",
+            "url": "http://localhost:8080/servers/hydro-cobblemon-1.20.1/files/mods_config/required/carryon-fabric-1.20.1-2.1.2.7.jar",
             "MD5": "c050f3d0934bbd8893fe2353eab906bb",
-            "path": "mods/carryon-fabric-1.20.1-2.1.2.7.jar"
+            "path": "mods_config/required/carryon-fabric-1.20.1-2.1.2.7.jar"
           }
         },
         {
@@ -41745,9 +41756,9 @@
           "type": "File",
           "artifact": {
             "size": 16345637,
-            "url": "http://localhost:8080/servers/hydro-cobblemon-1.20.1/files/mods/chatanimation-1.0.5.jar",
+            "url": "http://localhost:8080/servers/hydro-cobblemon-1.20.1/files/mods_config/required/chatanimation-1.0.5.jar",
             "MD5": "352e79d9617ed4adda0d3ba12936fef0",
-            "path": "mods/chatanimation-1.0.5.jar"
+            "path": "mods_config/required/chatanimation-1.0.5.jar"
           }
         },
         {
@@ -41756,9 +41767,9 @@
           "type": "File",
           "artifact": {
             "size": 76261,
-            "url": "http://localhost:8080/servers/hydro-cobblemon-1.20.1/files/mods/chat_heads-0.13.7-fabric-1.20.jar",
+            "url": "http://localhost:8080/servers/hydro-cobblemon-1.20.1/files/mods_config/required/chat_heads-0.13.7-fabric-1.20.jar",
             "MD5": "b7f7ebeac2c1a02efa8c68003e546832",
-            "path": "mods/chat_heads-0.13.7-fabric-1.20.jar"
+            "path": "mods_config/required/chat_heads-0.13.7-fabric-1.20.jar"
           }
         },
         {
@@ -41767,9 +41778,9 @@
           "type": "File",
           "artifact": {
             "size": 11844738,
-            "url": "http://localhost:8080/servers/hydro-cobblemon-1.20.1/files/mods/Chimes-v2.0.1-1.20.1-Fabric.jar",
+            "url": "http://localhost:8080/servers/hydro-cobblemon-1.20.1/files/mods_config/required/Chimes-v2.0.1-1.20.1-Fabric.jar",
             "MD5": "19c787b98182728444dc38f229e68a28",
-            "path": "mods/Chimes-v2.0.1-1.20.1-Fabric.jar"
+            "path": "mods_config/required/Chimes-v2.0.1-1.20.1-Fabric.jar"
           }
         },
         {
@@ -41778,9 +41789,9 @@
           "type": "File",
           "artifact": {
             "size": 344004,
-            "url": "http://localhost:8080/servers/hydro-cobblemon-1.20.1/files/mods/Chunky-1.3.146.jar",
+            "url": "http://localhost:8080/servers/hydro-cobblemon-1.20.1/files/mods_config/required/Chunky-1.3.146.jar",
             "MD5": "b1e31424db96ae83246efd0390598e01",
-            "path": "mods/Chunky-1.3.146.jar"
+            "path": "mods_config/required/Chunky-1.3.146.jar"
           }
         },
         {
@@ -41789,9 +41800,9 @@
           "type": "File",
           "artifact": {
             "size": 1172214,
-            "url": "http://localhost:8080/servers/hydro-cobblemon-1.20.1/files/mods/cloth-config-11.1.136-fabric.jar",
+            "url": "http://localhost:8080/servers/hydro-cobblemon-1.20.1/files/mods_config/required/cloth-config-11.1.136-fabric.jar",
             "MD5": "45d8bada7797af61d1f5543313b1f9f0",
-            "path": "mods/cloth-config-11.1.136-fabric.jar"
+            "path": "mods_config/required/cloth-config-11.1.136-fabric.jar"
           }
         },
         {
@@ -41800,9 +41811,9 @@
           "type": "File",
           "artifact": {
             "size": 29327,
-            "url": "http://localhost:8080/servers/hydro-cobblemon-1.20.1/files/mods/cloud-boots-1.20.1-fabric-3.0.0.jar",
+            "url": "http://localhost:8080/servers/hydro-cobblemon-1.20.1/files/mods_config/required/cloud-boots-1.20.1-fabric-3.0.0.jar",
             "MD5": "cb69d8f1bcd2b1416918c590cb4473f7",
-            "path": "mods/cloud-boots-1.20.1-fabric-3.0.0.jar"
+            "path": "mods_config/required/cloud-boots-1.20.1-fabric-3.0.0.jar"
           }
         },
         {
@@ -41811,9 +41822,9 @@
           "type": "File",
           "artifact": {
             "size": 472126,
-            "url": "http://localhost:8080/servers/hydro-cobblemon-1.20.1/files/mods/cobbledex-1.20.1-fabric-1.1.0.jar",
+            "url": "http://localhost:8080/servers/hydro-cobblemon-1.20.1/files/mods_config/required/cobbledex-1.20.1-fabric-1.1.0.jar",
             "MD5": "c35d1a12e3f70950190881034432e910",
-            "path": "mods/cobbledex-1.20.1-fabric-1.1.0.jar"
+            "path": "mods_config/required/cobbledex-1.20.1-fabric-1.1.0.jar"
           }
         },
         {
@@ -41822,9 +41833,9 @@
           "type": "File",
           "artifact": {
             "size": 730517,
-            "url": "http://localhost:8080/servers/hydro-cobblemon-1.20.1/files/mods/cobblefoods-1.3.2-1.20.1.jar",
+            "url": "http://localhost:8080/servers/hydro-cobblemon-1.20.1/files/mods_config/required/cobblefoods-1.3.2-1.20.1.jar",
             "MD5": "d4b249eaa5ec2bc0caf864d2252552ce",
-            "path": "mods/cobblefoods-1.3.2-1.20.1.jar"
+            "path": "mods_config/required/cobblefoods-1.3.2-1.20.1.jar"
           }
         },
         {
@@ -41833,9 +41844,9 @@
           "type": "File",
           "artifact": {
             "size": 170754,
-            "url": "http://localhost:8080/servers/hydro-cobblemon-1.20.1/files/mods/CobblemizerFabric-2.0.2.jar",
+            "url": "http://localhost:8080/servers/hydro-cobblemon-1.20.1/files/mods_config/required/CobblemizerFabric-2.0.2.jar",
             "MD5": "513afbb143072e4dff3befeb68fefa31",
-            "path": "mods/CobblemizerFabric-2.0.2.jar"
+            "path": "mods_config/required/CobblemizerFabric-2.0.2.jar"
           }
         },
         {
@@ -41844,9 +41855,9 @@
           "type": "File",
           "artifact": {
             "size": 89729,
-            "url": "http://localhost:8080/servers/hydro-cobblemon-1.20.1/files/mods/cobblemon-counter-1.5-fabric-1.2.0.jar",
+            "url": "http://localhost:8080/servers/hydro-cobblemon-1.20.1/files/mods_config/required/cobblemon-counter-1.5-fabric-1.2.0.jar",
             "MD5": "2533a4272543e9d3c6809e47d6d3b048",
-            "path": "mods/cobblemon-counter-1.5-fabric-1.2.0.jar"
+            "path": "mods_config/required/cobblemon-counter-1.5-fabric-1.2.0.jar"
           }
         },
         {
@@ -41855,9 +41866,9 @@
           "type": "File",
           "artifact": {
             "size": 109746268,
-            "url": "http://localhost:8080/servers/hydro-cobblemon-1.20.1/files/mods/Cobblemon-fabric-1.5.2+1.20.1.jar",
+            "url": "http://localhost:8080/servers/hydro-cobblemon-1.20.1/files/mods_config/required/Cobblemon-fabric-1.5.2+1.20.1.jar",
             "MD5": "adcca9e586a6720493f6093b29e253bb",
-            "path": "mods/Cobblemon-fabric-1.5.2+1.20.1.jar"
+            "path": "mods_config/required/Cobblemon-fabric-1.5.2+1.20.1.jar"
           }
         },
         {
@@ -41866,9 +41877,9 @@
           "type": "File",
           "artifact": {
             "size": 30535,
-            "url": "http://localhost:8080/servers/hydro-cobblemon-1.20.1/files/mods/cobblemon-unchained-1.5-fabric-1.0.1.jar",
+            "url": "http://localhost:8080/servers/hydro-cobblemon-1.20.1/files/mods_config/required/cobblemon-unchained-1.5-fabric-1.0.1.jar",
             "MD5": "fc1d04b4de1aeee7ed611ad0ef9f66c7",
-            "path": "mods/cobblemon-unchained-1.5-fabric-1.0.1.jar"
+            "path": "mods_config/required/cobblemon-unchained-1.5-fabric-1.0.1.jar"
           }
         },
         {
@@ -41877,9 +41888,9 @@
           "type": "File",
           "artifact": {
             "size": 158609,
-            "url": "http://localhost:8080/servers/hydro-cobblemon-1.20.1/files/mods/cobblemonintegrations-1.20.1-1.0.7.jar",
+            "url": "http://localhost:8080/servers/hydro-cobblemon-1.20.1/files/mods_config/required/cobblemonintegrations-1.20.1-1.0.7.jar",
             "MD5": "ee0d9c7a33cf16180bde933084ec41e8",
-            "path": "mods/cobblemonintegrations-1.20.1-1.0.7.jar"
+            "path": "mods_config/required/cobblemonintegrations-1.20.1-1.0.7.jar"
           }
         },
         {
@@ -41888,9 +41899,9 @@
           "type": "File",
           "artifact": {
             "size": 22939,
-            "url": "http://localhost:8080/servers/hydro-cobblemon-1.20.1/files/mods/CobblemonMoveInspector-1.1.1.jar",
+            "url": "http://localhost:8080/servers/hydro-cobblemon-1.20.1/files/mods_config/required/CobblemonMoveInspector-1.1.1.jar",
             "MD5": "4c0c8e8bb8d47320241ce3d2bc62e4b9",
-            "path": "mods/CobblemonMoveInspector-1.1.1.jar"
+            "path": "mods_config/required/CobblemonMoveInspector-1.1.1.jar"
           }
         },
         {
@@ -41899,9 +41910,9 @@
           "type": "File",
           "artifact": {
             "size": 48644,
-            "url": "http://localhost:8080/servers/hydro-cobblemon-1.20.1/files/mods/cobblemonridingfabric-1.2.6a.jar",
+            "url": "http://localhost:8080/servers/hydro-cobblemon-1.20.1/files/mods_config/required/cobblemonridingfabric-1.2.6a.jar",
             "MD5": "b5ae3800c91a826bb3d0ca3bb8dd2a72",
-            "path": "mods/cobblemonridingfabric-1.2.6a.jar"
+            "path": "mods_config/required/cobblemonridingfabric-1.2.6a.jar"
           }
         },
         {
@@ -41910,9 +41921,9 @@
           "type": "File",
           "artifact": {
             "size": 329397,
-            "url": "http://localhost:8080/servers/hydro-cobblemon-1.20.1/files/mods/Cobblenav-1.3.5.jar",
+            "url": "http://localhost:8080/servers/hydro-cobblemon-1.20.1/files/mods_config/required/Cobblenav-1.3.5.jar",
             "MD5": "d779a24d188386e318b21b873f630ea3",
-            "path": "mods/Cobblenav-1.3.5.jar"
+            "path": "mods_config/required/Cobblenav-1.3.5.jar"
           }
         },
         {
@@ -41921,9 +41932,9 @@
           "type": "File",
           "artifact": {
             "size": 7036965,
-            "url": "http://localhost:8080/servers/hydro-cobblemon-1.20.1/files/mods/Cobblepedia-Fabric-0.6.8.jar",
+            "url": "http://localhost:8080/servers/hydro-cobblemon-1.20.1/files/mods_config/required/Cobblepedia-Fabric-0.6.8.jar",
             "MD5": "fe98db8f5dcabaa2a808f2d6a2358a25",
-            "path": "mods/Cobblepedia-Fabric-0.6.8.jar"
+            "path": "mods_config/required/Cobblepedia-Fabric-0.6.8.jar"
           }
         },
         {
@@ -41932,9 +41943,9 @@
           "type": "File",
           "artifact": {
             "size": 82127,
-            "url": "http://localhost:8080/servers/hydro-cobblemon-1.20.1/files/mods/Cobbreeding-fabric-1.7.0.jar",
+            "url": "http://localhost:8080/servers/hydro-cobblemon-1.20.1/files/mods_config/required/Cobbreeding-fabric-1.7.0.jar",
             "MD5": "0ecf04512f49c755567a3f3eaa618c18",
-            "path": "mods/Cobbreeding-fabric-1.7.0.jar"
+            "path": "mods_config/required/Cobbreeding-fabric-1.7.0.jar"
           }
         },
         {
@@ -41943,9 +41954,9 @@
           "type": "File",
           "artifact": {
             "size": 648876,
-            "url": "http://localhost:8080/servers/hydro-cobblemon-1.20.1/files/mods/collective-1.20.1-7.87.jar",
+            "url": "http://localhost:8080/servers/hydro-cobblemon-1.20.1/files/mods_config/required/collective-1.20.1-7.87.jar",
             "MD5": "b0bcc1d5e282bab76d0f8f39a85a1a92",
-            "path": "mods/collective-1.20.1-7.87.jar"
+            "path": "mods_config/required/collective-1.20.1-7.87.jar"
           }
         },
         {
@@ -41954,9 +41965,9 @@
           "type": "File",
           "artifact": {
             "size": 122777,
-            "url": "http://localhost:8080/servers/hydro-cobblemon-1.20.1/files/mods/Controlling-fabric-1.20.1-12.0.2.jar",
+            "url": "http://localhost:8080/servers/hydro-cobblemon-1.20.1/files/mods_config/required/Controlling-fabric-1.20.1-12.0.2.jar",
             "MD5": "a225242dbf419ffa0eb1a79a503d1858",
-            "path": "mods/Controlling-fabric-1.20.1-12.0.2.jar"
+            "path": "mods_config/required/Controlling-fabric-1.20.1-12.0.2.jar"
           }
         },
         {
@@ -41965,9 +41976,9 @@
           "type": "File",
           "artifact": {
             "size": 722441,
-            "url": "http://localhost:8080/servers/hydro-cobblemon-1.20.1/files/mods/convenientdecor-0.4.3.jar",
+            "url": "http://localhost:8080/servers/hydro-cobblemon-1.20.1/files/mods_config/required/convenientdecor-0.4.3.jar",
             "MD5": "a9e08be7305ed90c5b658ed12928cdfc",
-            "path": "mods/convenientdecor-0.4.3.jar"
+            "path": "mods_config/required/convenientdecor-0.4.3.jar"
           }
         },
         {
@@ -41976,9 +41987,9 @@
           "type": "File",
           "artifact": {
             "size": 779345,
-            "url": "http://localhost:8080/servers/hydro-cobblemon-1.20.1/files/mods/cookingforblockheads-fabric-1.20.1-16.0.9.jar",
+            "url": "http://localhost:8080/servers/hydro-cobblemon-1.20.1/files/mods_config/required/cookingforblockheads-fabric-1.20.1-16.0.9.jar",
             "MD5": "e95ebe8ad0dba6685a754e12c099b2a4",
-            "path": "mods/cookingforblockheads-fabric-1.20.1-16.0.9.jar"
+            "path": "mods_config/required/cookingforblockheads-fabric-1.20.1-16.0.9.jar"
           }
         },
         {
@@ -41987,9 +41998,9 @@
           "type": "File",
           "artifact": {
             "size": 727365,
-            "url": "http://localhost:8080/servers/hydro-cobblemon-1.20.1/files/mods/Corgilib-Fabric-1.20.1-4.0.3.3.jar",
+            "url": "http://localhost:8080/servers/hydro-cobblemon-1.20.1/files/mods_config/required/Corgilib-Fabric-1.20.1-4.0.3.3.jar",
             "MD5": "dfdd446c153237568f8a9af82180cb9e",
-            "path": "mods/Corgilib-Fabric-1.20.1-4.0.3.3.jar"
+            "path": "mods_config/required/Corgilib-Fabric-1.20.1-4.0.3.3.jar"
           }
         },
         {
@@ -41998,9 +42009,9 @@
           "type": "File",
           "artifact": {
             "size": 218127,
-            "url": "http://localhost:8080/servers/hydro-cobblemon-1.20.1/files/mods/craftingtweaks-fabric-1.20.1-18.2.5.jar",
+            "url": "http://localhost:8080/servers/hydro-cobblemon-1.20.1/files/mods_config/required/craftingtweaks-fabric-1.20.1-18.2.5.jar",
             "MD5": "563cd5911052c322fee153bcc584ee7f",
-            "path": "mods/craftingtweaks-fabric-1.20.1-18.2.5.jar"
+            "path": "mods_config/required/craftingtweaks-fabric-1.20.1-18.2.5.jar"
           }
         },
         {
@@ -42009,9 +42020,9 @@
           "type": "File",
           "artifact": {
             "size": 3984054,
-            "url": "http://localhost:8080/servers/hydro-cobblemon-1.20.1/files/mods/CraftTweaker-fabric-1.20.1-14.0.44.jar",
+            "url": "http://localhost:8080/servers/hydro-cobblemon-1.20.1/files/mods_config/required/CraftTweaker-fabric-1.20.1-14.0.44.jar",
             "MD5": "3ecdf9b94b9dc4c2a8c6372660976d1f",
-            "path": "mods/CraftTweaker-fabric-1.20.1-14.0.44.jar"
+            "path": "mods_config/required/CraftTweaker-fabric-1.20.1-14.0.44.jar"
           }
         },
         {
@@ -42020,9 +42031,9 @@
           "type": "File",
           "artifact": {
             "size": 97866,
-            "url": "http://localhost:8080/servers/hydro-cobblemon-1.20.1/files/mods/crawl-0.12.0.jar",
+            "url": "http://localhost:8080/servers/hydro-cobblemon-1.20.1/files/mods_config/required/crawl-0.12.0.jar",
             "MD5": "693b2f07bf2b8280507f32d52bca388e",
-            "path": "mods/crawl-0.12.0.jar"
+            "path": "mods_config/required/crawl-0.12.0.jar"
           }
         },
         {
@@ -42031,9 +42042,9 @@
           "type": "File",
           "artifact": {
             "size": 1208841,
-            "url": "http://localhost:8080/servers/hydro-cobblemon-1.20.1/files/mods/CreativeCore_FABRIC_v2.12.24_mc1.20.1.jar",
+            "url": "http://localhost:8080/servers/hydro-cobblemon-1.20.1/files/mods_config/required/CreativeCore_FABRIC_v2.12.24_mc1.20.1.jar",
             "MD5": "ab044fdd2ad3dbba64f4000777dc973d",
-            "path": "mods/CreativeCore_FABRIC_v2.12.24_mc1.20.1.jar"
+            "path": "mods_config/required/CreativeCore_FABRIC_v2.12.24_mc1.20.1.jar"
           }
         },
         {
@@ -42042,9 +42053,9 @@
           "type": "File",
           "artifact": {
             "size": 1203433,
-            "url": "http://localhost:8080/servers/hydro-cobblemon-1.20.1/files/mods/DailyShop-mc1.20.1-v1.1.2-fabric.jar",
+            "url": "http://localhost:8080/servers/hydro-cobblemon-1.20.1/files/mods_config/required/DailyShop-mc1.20.1-v1.1.2-fabric.jar",
             "MD5": "ebb8973b9ab36a764465dc036055201f",
-            "path": "mods/DailyShop-mc1.20.1-v1.1.2-fabric.jar"
+            "path": "mods_config/required/DailyShop-mc1.20.1-v1.1.2-fabric.jar"
           }
         },
         {
@@ -42053,9 +42064,9 @@
           "type": "File",
           "artifact": {
             "size": 28994,
-            "url": "http://localhost:8080/servers/hydro-cobblemon-1.20.1/files/mods/DefaultedHotkeys-1.2-fabric.jar",
+            "url": "http://localhost:8080/servers/hydro-cobblemon-1.20.1/files/mods_config/required/DefaultedHotkeys-1.2-fabric.jar",
             "MD5": "3c0255c02a1824f5dc18fec82bed41f4",
-            "path": "mods/DefaultedHotkeys-1.2-fabric.jar"
+            "path": "mods_config/required/DefaultedHotkeys-1.2-fabric.jar"
           }
         },
         {
@@ -42064,9 +42075,9 @@
           "type": "File",
           "artifact": {
             "size": 87707,
-            "url": "http://localhost:8080/servers/hydro-cobblemon-1.20.1/files/mods/defaultoptions-fabric-1.20-18.0.1.jar",
+            "url": "http://localhost:8080/servers/hydro-cobblemon-1.20.1/files/mods_config/required/defaultoptions-fabric-1.20-18.0.1.jar",
             "MD5": "9a159a8c39c4ebcac26cd79e05dc00ea",
-            "path": "mods/defaultoptions-fabric-1.20-18.0.1.jar"
+            "path": "mods_config/required/defaultoptions-fabric-1.20-18.0.1.jar"
           }
         },
         {
@@ -42075,9 +42086,9 @@
           "type": "File",
           "artifact": {
             "size": 512218,
-            "url": "http://localhost:8080/servers/hydro-cobblemon-1.20.1/files/mods/dynamiccrosshair-9.3+1.20.1-fabric.jar",
+            "url": "http://localhost:8080/servers/hydro-cobblemon-1.20.1/files/mods_config/required/dynamiccrosshair-9.3+1.20.1-fabric.jar",
             "MD5": "101df01f0704bb61b0045238dd283554",
-            "path": "mods/dynamiccrosshair-9.3+1.20.1-fabric.jar"
+            "path": "mods_config/required/dynamiccrosshair-9.3+1.20.1-fabric.jar"
           }
         },
         {
@@ -42086,9 +42097,9 @@
           "type": "File",
           "artifact": {
             "size": 406908,
-            "url": "http://localhost:8080/servers/hydro-cobblemon-1.20.1/files/mods/dynamiccrosshaircompat-4.0+1.20.1.jar",
+            "url": "http://localhost:8080/servers/hydro-cobblemon-1.20.1/files/mods_config/required/dynamiccrosshaircompat-4.0+1.20.1.jar",
             "MD5": "23474fc354532ed8cb6ffe957348f9e3",
-            "path": "mods/dynamiccrosshaircompat-4.0+1.20.1.jar"
+            "path": "mods_config/required/dynamiccrosshaircompat-4.0+1.20.1.jar"
           }
         },
         {
@@ -42097,9 +42108,9 @@
           "type": "File",
           "artifact": {
             "size": 297767,
-            "url": "http://localhost:8080/servers/hydro-cobblemon-1.20.1/files/mods/Emojiful-Fabric-1.20.1-4.2.0.jar",
+            "url": "http://localhost:8080/servers/hydro-cobblemon-1.20.1/files/mods_config/required/Emojiful-Fabric-1.20.1-4.2.0.jar",
             "MD5": "7487433ac76b8213ccff32d83ed91e52",
-            "path": "mods/Emojiful-Fabric-1.20.1-4.2.0.jar"
+            "path": "mods_config/required/Emojiful-Fabric-1.20.1-4.2.0.jar"
           }
         },
         {
@@ -42108,9 +42119,9 @@
           "type": "File",
           "artifact": {
             "size": 1623962,
-            "url": "http://localhost:8080/servers/hydro-cobblemon-1.20.1/files/mods/Enhanced-Celestials-Fabric-1.20.1-5.0.1.0.jar",
+            "url": "http://localhost:8080/servers/hydro-cobblemon-1.20.1/files/mods_config/required/Enhanced-Celestials-Fabric-1.20.1-5.0.1.0.jar",
             "MD5": "248f3d054e597d26400843469e739190",
-            "path": "mods/Enhanced-Celestials-Fabric-1.20.1-5.0.1.0.jar"
+            "path": "mods_config/required/Enhanced-Celestials-Fabric-1.20.1-5.0.1.0.jar"
           }
         },
         {
@@ -42119,9 +42130,9 @@
           "type": "File",
           "artifact": {
             "size": 6665795,
-            "url": "http://localhost:8080/servers/hydro-cobblemon-1.20.1/files/mods/evenmoreinstruments-fabric-1.20-1.20.1-6.1.3.1.jar",
+            "url": "http://localhost:8080/servers/hydro-cobblemon-1.20.1/files/mods_config/required/evenmoreinstruments-fabric-1.20-1.20.1-6.1.3.1.jar",
             "MD5": "fc3d13796832563c711a4ddb5b1a449f",
-            "path": "mods/evenmoreinstruments-fabric-1.20-1.20.1-6.1.3.1.jar"
+            "path": "mods_config/required/evenmoreinstruments-fabric-1.20-1.20.1-6.1.3.1.jar"
           }
         },
         {
@@ -42130,9 +42141,9 @@
           "type": "File",
           "artifact": {
             "size": 2107289,
-            "url": "http://localhost:8080/servers/hydro-cobblemon-1.20.1/files/mods/fabric-api-0.92.2+1.20.1.jar",
+            "url": "http://localhost:8080/servers/hydro-cobblemon-1.20.1/files/mods_config/required/fabric-api-0.92.2+1.20.1.jar",
             "MD5": "92c58961866741106aae126558c9d4a7",
-            "path": "mods/fabric-api-0.92.2+1.20.1.jar"
+            "path": "mods_config/required/fabric-api-0.92.2+1.20.1.jar"
           }
         },
         {
@@ -42141,9 +42152,9 @@
           "type": "File",
           "artifact": {
             "size": 7089756,
-            "url": "http://localhost:8080/servers/hydro-cobblemon-1.20.1/files/mods/fabric-language-kotlin-1.13.0+kotlin.2.1.0.jar",
+            "url": "http://localhost:8080/servers/hydro-cobblemon-1.20.1/files/mods_config/required/fabric-language-kotlin-1.13.0+kotlin.2.1.0.jar",
             "MD5": "f6623d8c006095c4e08323f084e6c00e",
-            "path": "mods/fabric-language-kotlin-1.13.0+kotlin.2.1.0.jar"
+            "path": "mods_config/required/fabric-language-kotlin-1.13.0+kotlin.2.1.0.jar"
           }
         },
         {
@@ -42152,9 +42163,9 @@
           "type": "File",
           "artifact": {
             "size": 207272,
-            "url": "http://localhost:8080/servers/hydro-cobblemon-1.20.1/files/mods/fabricskyboxes-0.7.3+mc1.20.1.jar",
+            "url": "http://localhost:8080/servers/hydro-cobblemon-1.20.1/files/mods_config/required/fabricskyboxes-0.7.3+mc1.20.1.jar",
             "MD5": "a3e21b6bb94f98d3b5d29c77d1ad703a",
-            "path": "mods/fabricskyboxes-0.7.3+mc1.20.1.jar"
+            "path": "mods_config/required/fabricskyboxes-0.7.3+mc1.20.1.jar"
           }
         },
         {
@@ -42163,9 +42174,9 @@
           "type": "File",
           "artifact": {
             "size": 2877394,
-            "url": "http://localhost:8080/servers/hydro-cobblemon-1.20.1/files/mods/fancymenu_fabric_3.3.2_MC_1.20.1.jar",
+            "url": "http://localhost:8080/servers/hydro-cobblemon-1.20.1/files/mods_config/required/fancymenu_fabric_3.3.2_MC_1.20.1.jar",
             "MD5": "a7387fcf4f746e8563dff3c11a65add7",
-            "path": "mods/fancymenu_fabric_3.3.2_MC_1.20.1.jar"
+            "path": "mods_config/required/fancymenu_fabric_3.3.2_MC_1.20.1.jar"
           }
         },
         {
@@ -42174,9 +42185,9 @@
           "type": "File",
           "artifact": {
             "size": 16177,
-            "url": "http://localhost:8080/servers/hydro-cobblemon-1.20.1/files/mods/FauxCustomEntityData-fabric-1.20.1-6.0.1.jar",
+            "url": "http://localhost:8080/servers/hydro-cobblemon-1.20.1/files/mods_config/required/FauxCustomEntityData-fabric-1.20.1-6.0.1.jar",
             "MD5": "5b60a0524ed3e23b3c6243e4ae1ea266",
-            "path": "mods/FauxCustomEntityData-fabric-1.20.1-6.0.1.jar"
+            "path": "mods_config/required/FauxCustomEntityData-fabric-1.20.1-6.0.1.jar"
           }
         },
         {
@@ -42185,9 +42196,9 @@
           "type": "File",
           "artifact": {
             "size": 1051604,
-            "url": "http://localhost:8080/servers/hydro-cobblemon-1.20.1/files/mods/fightorflight-fabric-0.5.3.jar",
+            "url": "http://localhost:8080/servers/hydro-cobblemon-1.20.1/files/mods_config/required/fightorflight-fabric-0.5.3.jar",
             "MD5": "65100eb3554480a74ade38b6e61b7a1f",
-            "path": "mods/fightorflight-fabric-0.5.3.jar"
+            "path": "mods_config/required/fightorflight-fabric-0.5.3.jar"
           }
         },
         {
@@ -42196,9 +42207,9 @@
           "type": "File",
           "artifact": {
             "size": 37949,
-            "url": "http://localhost:8080/servers/hydro-cobblemon-1.20.1/files/mods/findme-3.2.1-fabric.jar",
+            "url": "http://localhost:8080/servers/hydro-cobblemon-1.20.1/files/mods_config/required/findme-3.2.1-fabric.jar",
             "MD5": "b3d79a5d50213e37d193695572fc9dec",
-            "path": "mods/findme-3.2.1-fabric.jar"
+            "path": "mods_config/required/findme-3.2.1-fabric.jar"
           }
         },
         {
@@ -42207,9 +42218,9 @@
           "type": "File",
           "artifact": {
             "size": 396955,
-            "url": "http://localhost:8080/servers/hydro-cobblemon-1.20.1/files/mods/ForgeConfigAPIPort-v8.0.1-1.20.1-Fabric.jar",
+            "url": "http://localhost:8080/servers/hydro-cobblemon-1.20.1/files/mods_config/required/ForgeConfigAPIPort-v8.0.1-1.20.1-Fabric.jar",
             "MD5": "0842b1a68c115149c95a25e14d67acad",
-            "path": "mods/ForgeConfigAPIPort-v8.0.1-1.20.1-Fabric.jar"
+            "path": "mods_config/required/ForgeConfigAPIPort-v8.0.1-1.20.1-Fabric.jar"
           }
         },
         {
@@ -42218,9 +42229,9 @@
           "type": "File",
           "artifact": {
             "size": 938197,
-            "url": "http://localhost:8080/servers/hydro-cobblemon-1.20.1/files/mods/ftb-chunks-fabric-2001.3.4.jar",
+            "url": "http://localhost:8080/servers/hydro-cobblemon-1.20.1/files/mods_config/required/ftb-chunks-fabric-2001.3.4.jar",
             "MD5": "01100ba7b37cff51629f4c1f229fcddf",
-            "path": "mods/ftb-chunks-fabric-2001.3.4.jar"
+            "path": "mods_config/required/ftb-chunks-fabric-2001.3.4.jar"
           }
         },
         {
@@ -42229,9 +42240,9 @@
           "type": "File",
           "artifact": {
             "size": 780567,
-            "url": "http://localhost:8080/servers/hydro-cobblemon-1.20.1/files/mods/ftb-library-fabric-2001.2.7.jar",
+            "url": "http://localhost:8080/servers/hydro-cobblemon-1.20.1/files/mods_config/required/ftb-library-fabric-2001.2.7.jar",
             "MD5": "b3289db12f65fbca0d7d4aafbc8ae189",
-            "path": "mods/ftb-library-fabric-2001.2.7.jar"
+            "path": "mods_config/required/ftb-library-fabric-2001.2.7.jar"
           }
         },
         {
@@ -42240,9 +42251,9 @@
           "type": "File",
           "artifact": {
             "size": 83211,
-            "url": "http://localhost:8080/servers/hydro-cobblemon-1.20.1/files/mods/ftb-ranks-fabric-2001.1.3.jar",
+            "url": "http://localhost:8080/servers/hydro-cobblemon-1.20.1/files/mods_config/required/ftb-ranks-fabric-2001.1.3.jar",
             "MD5": "ef1cfd88155df73d4a22f8d11ef58790",
-            "path": "mods/ftb-ranks-fabric-2001.1.3.jar"
+            "path": "mods_config/required/ftb-ranks-fabric-2001.1.3.jar"
           }
         },
         {
@@ -42251,9 +42262,9 @@
           "type": "File",
           "artifact": {
             "size": 243962,
-            "url": "http://localhost:8080/servers/hydro-cobblemon-1.20.1/files/mods/ftb-teams-fabric-2001.3.0.jar",
+            "url": "http://localhost:8080/servers/hydro-cobblemon-1.20.1/files/mods_config/required/ftb-teams-fabric-2001.3.0.jar",
             "MD5": "273629c8ea913e2e50707b06bcd801d0",
-            "path": "mods/ftb-teams-fabric-2001.3.0.jar"
+            "path": "mods_config/required/ftb-teams-fabric-2001.3.0.jar"
           }
         },
         {
@@ -42262,9 +42273,9 @@
           "type": "File",
           "artifact": {
             "size": 1019731,
-            "url": "http://localhost:8080/servers/hydro-cobblemon-1.20.1/files/mods/geckolib-fabric-1.20.1-4.4.9.jar",
+            "url": "http://localhost:8080/servers/hydro-cobblemon-1.20.1/files/mods_config/required/geckolib-fabric-1.20.1-4.4.9.jar",
             "MD5": "43283e490633976f9e2b46c473a87b62",
-            "path": "mods/geckolib-fabric-1.20.1-4.4.9.jar"
+            "path": "mods_config/required/geckolib-fabric-1.20.1-4.4.9.jar"
           }
         },
         {
@@ -42273,9 +42284,9 @@
           "type": "File",
           "artifact": {
             "size": 6401896,
-            "url": "http://localhost:8080/servers/hydro-cobblemon-1.20.1/files/mods/genshinstrument-fabric-1.20-1.20.1-4.0.2.jar",
+            "url": "http://localhost:8080/servers/hydro-cobblemon-1.20.1/files/mods_config/required/genshinstrument-fabric-1.20-1.20.1-4.0.2.jar",
             "MD5": "6dfbf292fe5f09ba4e071d2ab525f333",
-            "path": "mods/genshinstrument-fabric-1.20-1.20.1-4.0.2.jar"
+            "path": "mods_config/required/genshinstrument-fabric-1.20-1.20.1-4.0.2.jar"
           }
         },
         {
@@ -42284,9 +42295,9 @@
           "type": "File",
           "artifact": {
             "size": 230087,
-            "url": "http://localhost:8080/servers/hydro-cobblemon-1.20.1/files/mods/global_packs-fabric-1.19.4-1.16.1_fabric.jar",
+            "url": "http://localhost:8080/servers/hydro-cobblemon-1.20.1/files/mods_config/required/global_packs-fabric-1.19.4-1.16.1_fabric.jar",
             "MD5": "3d24eb3a79b7ab99e3f17d0244cab13a",
-            "path": "mods/global_packs-fabric-1.19.4-1.16.1_fabric.jar"
+            "path": "mods_config/required/global_packs-fabric-1.19.4-1.16.1_fabric.jar"
           }
         },
         {
@@ -42295,9 +42306,9 @@
           "type": "File",
           "artifact": {
             "size": 112716,
-            "url": "http://localhost:8080/servers/hydro-cobblemon-1.20.1/files/mods/GooeyLibs-Fabric-3.0.0+1.20.1.jar",
+            "url": "http://localhost:8080/servers/hydro-cobblemon-1.20.1/files/mods_config/required/GooeyLibs-Fabric-3.0.0+1.20.1.jar",
             "MD5": "36e3b6128d6335a4032b1d029ce70675",
-            "path": "mods/GooeyLibs-Fabric-3.0.0+1.20.1.jar"
+            "path": "mods_config/required/GooeyLibs-Fabric-3.0.0+1.20.1.jar"
           }
         },
         {
@@ -42306,9 +42317,9 @@
           "type": "File",
           "artifact": {
             "size": 2161036,
-            "url": "http://localhost:8080/servers/hydro-cobblemon-1.20.1/files/mods/gravels_extended_battles-1.4.0.jar",
+            "url": "http://localhost:8080/servers/hydro-cobblemon-1.20.1/files/mods_config/required/gravels_extended_battles-1.4.0.jar",
             "MD5": "f05da1ce3895f80d2cf81f0cc771e8af",
-            "path": "mods/gravels_extended_battles-1.4.0.jar"
+            "path": "mods_config/required/gravels_extended_battles-1.4.0.jar"
           }
         },
         {
@@ -42317,9 +42328,9 @@
           "type": "File",
           "artifact": {
             "size": 1174045,
-            "url": "http://localhost:8080/servers/hydro-cobblemon-1.20.1/files/mods/hearth_and_home-fabric-1.20.1-2.0.3.jar",
+            "url": "http://localhost:8080/servers/hydro-cobblemon-1.20.1/files/mods_config/required/hearth_and_home-fabric-1.20.1-2.0.3.jar",
             "MD5": "3877ad0db3d3f37f33bc28bbb0f83323",
-            "path": "mods/hearth_and_home-fabric-1.20.1-2.0.3.jar"
+            "path": "mods_config/required/hearth_and_home-fabric-1.20.1-2.0.3.jar"
           }
         },
         {
@@ -42328,9 +42339,9 @@
           "type": "File",
           "artifact": {
             "size": 217517,
-            "url": "http://localhost:8080/servers/hydro-cobblemon-1.20.1/files/mods/heartstone-1.20-1.3.0-fabric.jar",
+            "url": "http://localhost:8080/servers/hydro-cobblemon-1.20.1/files/mods_config/required/heartstone-1.20-1.3.0-fabric.jar",
             "MD5": "818a3e1d75b797c6c7524cb8af5dea5f",
-            "path": "mods/heartstone-1.20-1.3.0-fabric.jar"
+            "path": "mods_config/required/heartstone-1.20-1.3.0-fabric.jar"
           }
         },
         {
@@ -42339,9 +42350,9 @@
           "type": "File",
           "artifact": {
             "size": 630547,
-            "url": "http://localhost:8080/servers/hydro-cobblemon-1.20.1/files/mods/HopoBetterUnderwaterRuins-[1.20.2-1.20.4]-1.1.5.jar",
+            "url": "http://localhost:8080/servers/hydro-cobblemon-1.20.1/files/mods_config/required/HopoBetterUnderwaterRuins-[1.20.2-1.20.4]-1.1.5.jar",
             "MD5": "cf40810261c3c54d32150133f32f8a06",
-            "path": "mods/HopoBetterUnderwaterRuins-[1.20.2-1.20.4]-1.1.5.jar"
+            "path": "mods_config/required/HopoBetterUnderwaterRuins-[1.20.2-1.20.4]-1.1.5.jar"
           }
         },
         {
@@ -42350,9 +42361,9 @@
           "type": "File",
           "artifact": {
             "size": 129739,
-            "url": "http://localhost:8080/servers/hydro-cobblemon-1.20.1/files/mods/hotkettles-fabric-1.0.0+mc1.20.1.jar",
+            "url": "http://localhost:8080/servers/hydro-cobblemon-1.20.1/files/mods_config/required/hotkettles-fabric-1.0.0+mc1.20.1.jar",
             "MD5": "42d2253a2cc4bec9c5bae93b0e2c1ccf",
-            "path": "mods/hotkettles-fabric-1.0.0+mc1.20.1.jar"
+            "path": "mods_config/required/hotkettles-fabric-1.0.0+mc1.20.1.jar"
           }
         },
         {
@@ -42361,9 +42372,9 @@
           "type": "File",
           "artifact": {
             "size": 67457,
-            "url": "http://localhost:8080/servers/hydro-cobblemon-1.20.1/files/mods/Hunt-1.1.0-fabric.jar",
+            "url": "http://localhost:8080/servers/hydro-cobblemon-1.20.1/files/mods_config/required/Hunt-1.1.0-fabric.jar",
             "MD5": "0c0659967c66a8e24197fa141a16a14c",
-            "path": "mods/Hunt-1.1.0-fabric.jar"
+            "path": "mods_config/required/Hunt-1.1.0-fabric.jar"
           }
         },
         {
@@ -42372,9 +42383,9 @@
           "type": "File",
           "artifact": {
             "size": 119018,
-            "url": "http://localhost:8080/servers/hydro-cobblemon-1.20.1/files/mods/Iceberg-1.20.1-fabric-1.1.25.jar",
+            "url": "http://localhost:8080/servers/hydro-cobblemon-1.20.1/files/mods_config/required/Iceberg-1.20.1-fabric-1.1.25.jar",
             "MD5": "063fa399d8886abc0b1b612e968b8e0b",
-            "path": "mods/Iceberg-1.20.1-fabric-1.1.25.jar"
+            "path": "mods_config/required/Iceberg-1.20.1-fabric-1.1.25.jar"
           }
         },
         {
@@ -42383,9 +42394,9 @@
           "type": "File",
           "artifact": {
             "size": 15909112,
-            "url": "http://localhost:8080/servers/hydro-cobblemon-1.20.1/files/mods/Impactor-Fabric-5.2.6+1.20.1.jar",
+            "url": "http://localhost:8080/servers/hydro-cobblemon-1.20.1/files/mods_config/required/Impactor-Fabric-5.2.6+1.20.1.jar",
             "MD5": "2eb2568f130771f8968ec7597f344169",
-            "path": "mods/Impactor-Fabric-5.2.6+1.20.1.jar"
+            "path": "mods_config/required/Impactor-Fabric-5.2.6+1.20.1.jar"
           }
         },
         {
@@ -42394,9 +42405,9 @@
           "type": "File",
           "artifact": {
             "size": 631320,
-            "url": "http://localhost:8080/servers/hydro-cobblemon-1.20.1/files/mods/ImprovedPillagerOutpost-v3.jar",
+            "url": "http://localhost:8080/servers/hydro-cobblemon-1.20.1/files/mods_config/required/ImprovedPillagerOutpost-v3.jar",
             "MD5": "e5db375b11903ca149f66d207e50bc59",
-            "path": "mods/ImprovedPillagerOutpost-v3.jar"
+            "path": "mods_config/required/ImprovedPillagerOutpost-v3.jar"
           }
         },
         {
@@ -42405,9 +42416,9 @@
           "type": "File",
           "artifact": {
             "size": 105359,
-            "url": "http://localhost:8080/servers/hydro-cobblemon-1.20.1/files/mods/indium-1.0.34+mc1.20.1.jar",
+            "url": "http://localhost:8080/servers/hydro-cobblemon-1.20.1/files/mods_config/required/indium-1.0.34+mc1.20.1.jar",
             "MD5": "91f3ce08edec42ee8f6b45fd6ae0c8b3",
-            "path": "mods/indium-1.0.34+mc1.20.1.jar"
+            "path": "mods_config/required/indium-1.0.34+mc1.20.1.jar"
           }
         },
         {
@@ -42416,9 +42427,9 @@
           "type": "File",
           "artifact": {
             "size": 2730664,
-            "url": "http://localhost:8080/servers/hydro-cobblemon-1.20.1/files/mods/iris-1.7.5+mc1.20.1.jar",
+            "url": "http://localhost:8080/servers/hydro-cobblemon-1.20.1/files/mods_config/required/iris-1.7.5+mc1.20.1.jar",
             "MD5": "902528a82a843300ecf9027af9f8fb8c",
-            "path": "mods/iris-1.7.5+mc1.20.1.jar"
+            "path": "mods_config/required/iris-1.7.5+mc1.20.1.jar"
           }
         },
         {
@@ -42427,9 +42438,9 @@
           "type": "File",
           "artifact": {
             "size": 28620,
-            "url": "http://localhost:8080/servers/hydro-cobblemon-1.20.1/files/mods/Item_Obliterator-MC1.20.1-Fabric_Quilt-2.3.0.jar",
+            "url": "http://localhost:8080/servers/hydro-cobblemon-1.20.1/files/mods_config/required/Item_Obliterator-MC1.20.1-Fabric_Quilt-2.3.0.jar",
             "MD5": "edf87af0a85bf2521906a52b0941155f",
-            "path": "mods/Item_Obliterator-MC1.20.1-Fabric_Quilt-2.3.0.jar"
+            "path": "mods_config/required/Item_Obliterator-MC1.20.1-Fabric_Quilt-2.3.0.jar"
           }
         },
         {
@@ -42438,9 +42449,9 @@
           "type": "File",
           "artifact": {
             "size": 7209178,
-            "url": "http://localhost:8080/servers/hydro-cobblemon-1.20.1/files/mods/journeymap-1.20.1-5.10.3-fabric.jar",
+            "url": "http://localhost:8080/servers/hydro-cobblemon-1.20.1/files/mods_config/required/journeymap-1.20.1-5.10.3-fabric.jar",
             "MD5": "0daacf8f13dd33450a970601cf21d627",
-            "path": "mods/journeymap-1.20.1-5.10.3-fabric.jar"
+            "path": "mods_config/required/journeymap-1.20.1-5.10.3-fabric.jar"
           }
         },
         {
@@ -42449,9 +42460,9 @@
           "type": "File",
           "artifact": {
             "size": 85324,
-            "url": "http://localhost:8080/servers/hydro-cobblemon-1.20.1/files/mods/justhammers-fabric-2.0.4+mc1.20.1.jar",
+            "url": "http://localhost:8080/servers/hydro-cobblemon-1.20.1/files/mods_config/required/justhammers-fabric-2.0.4+mc1.20.1.jar",
             "MD5": "22f4e0b18dfcbc21480aa57c4a96164f",
-            "path": "mods/justhammers-fabric-2.0.4+mc1.20.1.jar"
+            "path": "mods_config/required/justhammers-fabric-2.0.4+mc1.20.1.jar"
           }
         },
         {
@@ -42460,9 +42471,9 @@
           "type": "File",
           "artifact": {
             "size": 327998,
-            "url": "http://localhost:8080/servers/hydro-cobblemon-1.20.1/files/mods/Kambrik-6.1.1+1.20.1-fabric.jar",
+            "url": "http://localhost:8080/servers/hydro-cobblemon-1.20.1/files/mods_config/required/Kambrik-6.1.1+1.20.1-fabric.jar",
             "MD5": "7494e938737edb83f2cca398b4d1aacc",
-            "path": "mods/Kambrik-6.1.1+1.20.1-fabric.jar"
+            "path": "mods_config/required/Kambrik-6.1.1+1.20.1-fabric.jar"
           }
         },
         {
@@ -42471,9 +42482,9 @@
           "type": "File",
           "artifact": {
             "size": 892067,
-            "url": "http://localhost:8080/servers/hydro-cobblemon-1.20.1/files/mods/konkrete_fabric_1.8.1_MC_1.20.1.jar",
+            "url": "http://localhost:8080/servers/hydro-cobblemon-1.20.1/files/mods_config/required/konkrete_fabric_1.8.1_MC_1.20.1.jar",
             "MD5": "a816ca0f5272f0e60c745f7fe6bef1d6",
-            "path": "mods/konkrete_fabric_1.8.1_MC_1.20.1.jar"
+            "path": "mods_config/required/konkrete_fabric_1.8.1_MC_1.20.1.jar"
           }
         },
         {
@@ -42482,9 +42493,9 @@
           "type": "File",
           "artifact": {
             "size": 1604251,
-            "url": "http://localhost:8080/servers/hydro-cobblemon-1.20.1/files/mods/kubejs-fabric-2001.6.5-build.16.jar",
+            "url": "http://localhost:8080/servers/hydro-cobblemon-1.20.1/files/mods_config/required/kubejs-fabric-2001.6.5-build.16.jar",
             "MD5": "c43bf8e7aa075df68558638d372e4d58",
-            "path": "mods/kubejs-fabric-2001.6.5-build.16.jar"
+            "path": "mods_config/required/kubejs-fabric-2001.6.5-build.16.jar"
           }
         },
         {
@@ -42493,9 +42504,9 @@
           "type": "File",
           "artifact": {
             "size": 105844,
-            "url": "http://localhost:8080/servers/hydro-cobblemon-1.20.1/files/mods/labels-1.20-1.20.2-fabric.jar",
+            "url": "http://localhost:8080/servers/hydro-cobblemon-1.20.1/files/mods_config/required/labels-1.20-1.20.2-fabric.jar",
             "MD5": "e5e676cae33cad73e213e0396233cf06",
-            "path": "mods/labels-1.20-1.20.2-fabric.jar"
+            "path": "mods_config/required/labels-1.20-1.20.2-fabric.jar"
           }
         },
         {
@@ -42504,9 +42515,9 @@
           "type": "File",
           "artifact": {
             "size": 63969,
-            "url": "http://localhost:8080/servers/hydro-cobblemon-1.20.1/files/mods/LegendaryTooltips-1.20.1-fabric-1.4.5.jar",
+            "url": "http://localhost:8080/servers/hydro-cobblemon-1.20.1/files/mods_config/required/LegendaryTooltips-1.20.1-fabric-1.4.5.jar",
             "MD5": "da13b6865a45746799f4465409509a52",
-            "path": "mods/LegendaryTooltips-1.20.1-fabric-1.4.5.jar"
+            "path": "mods_config/required/LegendaryTooltips-1.20.1-fabric-1.4.5.jar"
           }
         },
         {
@@ -42515,9 +42526,9 @@
           "type": "File",
           "artifact": {
             "size": 287072,
-            "url": "http://localhost:8080/servers/hydro-cobblemon-1.20.1/files/mods/lootbags-2.0.0-fabric.jar",
+            "url": "http://localhost:8080/servers/hydro-cobblemon-1.20.1/files/mods_config/required/lootbags-2.0.0-fabric.jar",
             "MD5": "db5dc4984aedbdc352a26d2fedbcfe93",
-            "path": "mods/lootbags-2.0.0-fabric.jar"
+            "path": "mods_config/required/lootbags-2.0.0-fabric.jar"
           }
         },
         {
@@ -42526,9 +42537,9 @@
           "type": "File",
           "artifact": {
             "size": 146289,
-            "url": "http://localhost:8080/servers/hydro-cobblemon-1.20.1/files/mods/lootballs-1.1.4.jar",
+            "url": "http://localhost:8080/servers/hydro-cobblemon-1.20.1/files/mods_config/required/lootballs-1.1.4.jar",
             "MD5": "8320599f182cc1576fb7f2c52f2349e5",
-            "path": "mods/lootballs-1.1.4.jar"
+            "path": "mods_config/required/lootballs-1.1.4.jar"
           }
         },
         {
@@ -42537,9 +42548,9 @@
           "type": "File",
           "artifact": {
             "size": 440323,
-            "url": "http://localhost:8080/servers/hydro-cobblemon-1.20.1/files/mods/lootbeams-3.1.1-mc1.20-.4.jar",
+            "url": "http://localhost:8080/servers/hydro-cobblemon-1.20.1/files/mods_config/required/lootbeams-3.1.1-mc1.20-.4.jar",
             "MD5": "f650b981f598460dba10c227d899efff",
-            "path": "mods/lootbeams-3.1.1-mc1.20-.4.jar"
+            "path": "mods_config/required/lootbeams-3.1.1-mc1.20-.4.jar"
           }
         },
         {
@@ -42548,9 +42559,9 @@
           "type": "File",
           "artifact": {
             "size": 572017,
-            "url": "http://localhost:8080/servers/hydro-cobblemon-1.20.1/files/mods/lootr-fabric-1.20-0.7.35.85.jar",
+            "url": "http://localhost:8080/servers/hydro-cobblemon-1.20.1/files/mods_config/required/lootr-fabric-1.20-0.7.35.85.jar",
             "MD5": "26144f326ced4b2c4f36c48fb90f797a",
-            "path": "mods/lootr-fabric-1.20-0.7.35.85.jar"
+            "path": "mods_config/required/lootr-fabric-1.20-0.7.35.85.jar"
           }
         },
         {
@@ -42559,9 +42570,9 @@
           "type": "File",
           "artifact": {
             "size": 8623960,
-            "url": "http://localhost:8080/servers/hydro-cobblemon-1.20.1/files/mods/MegamonsFabric-1.2.1.jar",
+            "url": "http://localhost:8080/servers/hydro-cobblemon-1.20.1/files/mods_config/required/MegamonsFabric-1.2.1.jar",
             "MD5": "d9ea58d84690519de3c38fa036401584",
-            "path": "mods/MegamonsFabric-1.2.1.jar"
+            "path": "mods_config/required/MegamonsFabric-1.2.1.jar"
           }
         },
         {
@@ -42570,9 +42581,9 @@
           "type": "File",
           "artifact": {
             "size": 39696,
-            "url": "http://localhost:8080/servers/hydro-cobblemon-1.20.1/files/mods/melody_fabric_1.0.4_MC_1.20.1-1.20.4.jar",
+            "url": "http://localhost:8080/servers/hydro-cobblemon-1.20.1/files/mods_config/required/melody_fabric_1.0.4_MC_1.20.1-1.20.4.jar",
             "MD5": "8095b46d324586b3cf3d2f5bffe8b417",
-            "path": "mods/melody_fabric_1.0.4_MC_1.20.1-1.20.4.jar"
+            "path": "mods_config/required/melody_fabric_1.0.4_MC_1.20.1-1.20.4.jar"
           }
         },
         {
@@ -42581,9 +42592,9 @@
           "type": "File",
           "artifact": {
             "size": 59752,
-            "url": "http://localhost:8080/servers/hydro-cobblemon-1.20.1/files/mods/midnightlib-fabric-1.4.1.jar",
+            "url": "http://localhost:8080/servers/hydro-cobblemon-1.20.1/files/mods_config/required/midnightlib-fabric-1.4.1.jar",
             "MD5": "5fb8e62ec2f6bedc91aa5547d0c9c96e",
-            "path": "mods/midnightlib-fabric-1.4.1.jar"
+            "path": "mods_config/required/midnightlib-fabric-1.4.1.jar"
           }
         },
         {
@@ -42592,9 +42603,9 @@
           "type": "File",
           "artifact": {
             "size": 8019900,
-            "url": "http://localhost:8080/servers/hydro-cobblemon-1.20.1/files/mods/mint-1.0.5+1.20.1.jar",
+            "url": "http://localhost:8080/servers/hydro-cobblemon-1.20.1/files/mods_config/required/mint-1.0.5+1.20.1.jar",
             "MD5": "6193ef7efab3142d239460b80a49b7cf",
-            "path": "mods/mint-1.0.5+1.20.1.jar"
+            "path": "mods_config/required/mint-1.0.5+1.20.1.jar"
           }
         },
         {
@@ -42603,9 +42614,9 @@
           "type": "File",
           "artifact": {
             "size": 648454,
-            "url": "http://localhost:8080/servers/hydro-cobblemon-1.20.1/files/mods/modernfix-fabric-5.19.7+mc1.20.1.jar",
+            "url": "http://localhost:8080/servers/hydro-cobblemon-1.20.1/files/mods_config/required/modernfix-fabric-5.19.7+mc1.20.1.jar",
             "MD5": "63ea31e71b1947ec4d2ed322b7130283",
-            "path": "mods/modernfix-fabric-5.19.7+mc1.20.1.jar"
+            "path": "mods_config/required/modernfix-fabric-5.19.7+mc1.20.1.jar"
           }
         },
         {
@@ -42614,9 +42625,9 @@
           "type": "File",
           "artifact": {
             "size": 721366,
-            "url": "http://localhost:8080/servers/hydro-cobblemon-1.20.1/files/mods/modmenu-7.2.2.jar",
+            "url": "http://localhost:8080/servers/hydro-cobblemon-1.20.1/files/mods_config/required/modmenu-7.2.2.jar",
             "MD5": "2629511a2d3b141d9f2a24dc9685637e",
-            "path": "mods/modmenu-7.2.2.jar"
+            "path": "mods_config/required/modmenu-7.2.2.jar"
           }
         },
         {
@@ -42625,9 +42636,9 @@
           "type": "File",
           "artifact": {
             "size": 1189017,
-            "url": "http://localhost:8080/servers/hydro-cobblemon-1.20.1/files/mods/moonlight-1.20-2.13.41-fabric.jar",
+            "url": "http://localhost:8080/servers/hydro-cobblemon-1.20.1/files/mods_config/required/moonlight-1.20-2.13.41-fabric.jar",
             "MD5": "51421475195f57e4bd54e3384f892f8e",
-            "path": "mods/moonlight-1.20-2.13.41-fabric.jar"
+            "path": "mods_config/required/moonlight-1.20-2.13.41-fabric.jar"
           }
         },
         {
@@ -42636,9 +42647,9 @@
           "type": "File",
           "artifact": {
             "size": 130310,
-            "url": "http://localhost:8080/servers/hydro-cobblemon-1.20.1/files/mods/MoreCobblemonTweaks-0.7.1.jar",
+            "url": "http://localhost:8080/servers/hydro-cobblemon-1.20.1/files/mods_config/required/MoreCobblemonTweaks-0.7.1.jar",
             "MD5": "da88843acc29e86571c78b654197d31f",
-            "path": "mods/MoreCobblemonTweaks-0.7.1.jar"
+            "path": "mods_config/required/MoreCobblemonTweaks-0.7.1.jar"
           }
         },
         {
@@ -42647,9 +42658,9 @@
           "type": "File",
           "artifact": {
             "size": 77943,
-            "url": "http://localhost:8080/servers/hydro-cobblemon-1.20.1/files/mods/MouseTweaks-fabric-mc1.20-2.26.jar",
+            "url": "http://localhost:8080/servers/hydro-cobblemon-1.20.1/files/mods_config/required/MouseTweaks-fabric-mc1.20-2.26.jar",
             "MD5": "3138c776d370c90603938eb54d17469a",
-            "path": "mods/MouseTweaks-fabric-mc1.20-2.26.jar"
+            "path": "mods_config/required/MouseTweaks-fabric-mc1.20-2.26.jar"
           }
         },
         {
@@ -42658,9 +42669,9 @@
           "type": "File",
           "artifact": {
             "size": 1193533,
-            "url": "http://localhost:8080/servers/hydro-cobblemon-1.20.1/files/mods/mousewheelie-1.13.0+mc1.20.1.jar",
+            "url": "http://localhost:8080/servers/hydro-cobblemon-1.20.1/files/mods_config/required/mousewheelie-1.13.0+mc1.20.1.jar",
             "MD5": "b8e95f3f28db9814250600f7f18113be",
-            "path": "mods/mousewheelie-1.13.0+mc1.20.1.jar"
+            "path": "mods_config/required/mousewheelie-1.13.0+mc1.20.1.jar"
           }
         },
         {
@@ -42669,9 +42680,9 @@
           "type": "File",
           "artifact": {
             "size": 3107763,
-            "url": "http://localhost:8080/servers/hydro-cobblemon-1.20.1/files/mods/mss-1.2.6-1.20.jar",
+            "url": "http://localhost:8080/servers/hydro-cobblemon-1.20.1/files/mods_config/required/mss-1.2.6-1.20.jar",
             "MD5": "d5535f7a647efefe2d6e83015f2a96ed",
-            "path": "mods/mss-1.2.6-1.20.jar"
+            "path": "mods_config/required/mss-1.2.6-1.20.jar"
           }
         },
         {
@@ -42680,9 +42691,9 @@
           "type": "File",
           "artifact": {
             "size": 208227,
-            "url": "http://localhost:8080/servers/hydro-cobblemon-1.20.1/files/mods/muffins_picnic-1.0.0-fabric.jar",
+            "url": "http://localhost:8080/servers/hydro-cobblemon-1.20.1/files/mods_config/required/muffins_picnic-1.0.0-fabric.jar",
             "MD5": "4bdfd0abb4a9c7fceed5411236b1047a",
-            "path": "mods/muffins_picnic-1.0.0-fabric.jar"
+            "path": "mods_config/required/muffins_picnic-1.0.0-fabric.jar"
           }
         },
         {
@@ -42691,9 +42702,9 @@
           "type": "File",
           "artifact": {
             "size": 1321239,
-            "url": "http://localhost:8080/servers/hydro-cobblemon-1.20.1/files/mods/mvs-4.1.4-1.20-fabric.jar",
+            "url": "http://localhost:8080/servers/hydro-cobblemon-1.20.1/files/mods_config/required/mvs-4.1.4-1.20-fabric.jar",
             "MD5": "9fa03b13e23cd36e6241d8ccaf3995e1",
-            "path": "mods/mvs-4.1.4-1.20-fabric.jar"
+            "path": "mods_config/required/mvs-4.1.4-1.20-fabric.jar"
           }
         },
         {
@@ -42702,9 +42713,9 @@
           "type": "File",
           "artifact": {
             "size": 676210,
-            "url": "http://localhost:8080/servers/hydro-cobblemon-1.20.1/files/mods/Myths_and_Legends-1.6.1-fabric.jar",
+            "url": "http://localhost:8080/servers/hydro-cobblemon-1.20.1/files/mods_config/required/Myths_and_Legends-1.6.1-fabric.jar",
             "MD5": "c90d22f839beedddf0c50bd189734b57",
-            "path": "mods/Myths_and_Legends-1.6.1-fabric.jar"
+            "path": "mods_config/required/Myths_and_Legends-1.6.1-fabric.jar"
           }
         },
         {
@@ -42713,9 +42724,9 @@
           "type": "File",
           "artifact": {
             "size": 230344,
-            "url": "http://localhost:8080/servers/hydro-cobblemon-1.20.1/files/mods/NaturesCompass-1.20.1-2.2.3-fabric.jar",
+            "url": "http://localhost:8080/servers/hydro-cobblemon-1.20.1/files/mods_config/required/NaturesCompass-1.20.1-2.2.3-fabric.jar",
             "MD5": "9a7621b925ff3f502ea690ffc4cdd774",
-            "path": "mods/NaturesCompass-1.20.1-2.2.3-fabric.jar"
+            "path": "mods_config/required/NaturesCompass-1.20.1-2.2.3-fabric.jar"
           }
         },
         {
@@ -42724,9 +42735,9 @@
           "type": "File",
           "artifact": {
             "size": 37533,
-            "url": "http://localhost:8080/servers/hydro-cobblemon-1.20.1/files/mods/Necronomicon-Fabric-1.6.0+1.20.1.jar",
+            "url": "http://localhost:8080/servers/hydro-cobblemon-1.20.1/files/mods_config/required/Necronomicon-Fabric-1.6.0+1.20.1.jar",
             "MD5": "e38a3d26ec2246667afb418630438daa",
-            "path": "mods/Necronomicon-Fabric-1.6.0+1.20.1.jar"
+            "path": "mods_config/required/Necronomicon-Fabric-1.6.0+1.20.1.jar"
           }
         },
         {
@@ -42735,9 +42746,9 @@
           "type": "File",
           "artifact": {
             "size": 428217,
-            "url": "http://localhost:8080/servers/hydro-cobblemon-1.20.1/files/mods/nightlights-fabric-1.20.1-1.1.jar",
+            "url": "http://localhost:8080/servers/hydro-cobblemon-1.20.1/files/mods_config/required/nightlights-fabric-1.20.1-1.1.jar",
             "MD5": "609ce0a80148c3612123152079c2095a",
-            "path": "mods/nightlights-fabric-1.20.1-1.1.jar"
+            "path": "mods_config/required/nightlights-fabric-1.20.1-1.1.jar"
           }
         },
         {
@@ -42746,9 +42757,9 @@
           "type": "File",
           "artifact": {
             "size": 493061,
-            "url": "http://localhost:8080/servers/hydro-cobblemon-1.20.1/files/mods/numismatic-overhaul-0.2.14+1.20.jar",
+            "url": "http://localhost:8080/servers/hydro-cobblemon-1.20.1/files/mods_config/required/numismatic-overhaul-0.2.14+1.20.jar",
             "MD5": "2ae98c9ade11c2f2ce21d65baaf98e6a",
-            "path": "mods/numismatic-overhaul-0.2.14+1.20.jar"
+            "path": "mods_config/required/numismatic-overhaul-0.2.14+1.20.jar"
           }
         },
         {
@@ -42757,9 +42768,9 @@
           "type": "File",
           "artifact": {
             "size": 34559107,
-            "url": "http://localhost:8080/servers/hydro-cobblemon-1.20.1/files/mods/Oh-The-Biomes-Weve-Gone-Fabric-1.4.4.jar",
+            "url": "http://localhost:8080/servers/hydro-cobblemon-1.20.1/files/mods_config/required/Oh-The-Biomes-Weve-Gone-Fabric-1.4.4.jar",
             "MD5": "a4c56cf2f53fc8011a8bb330855137ad",
-            "path": "mods/Oh-The-Biomes-Weve-Gone-Fabric-1.4.4.jar"
+            "path": "mods_config/required/Oh-The-Biomes-Weve-Gone-Fabric-1.4.4.jar"
           }
         },
         {
@@ -42768,9 +42779,9 @@
           "type": "File",
           "artifact": {
             "size": 122390,
-            "url": "http://localhost:8080/servers/hydro-cobblemon-1.20.1/files/mods/Oh-The-Trees-Youll-Grow-fabric-1.20.1-1.3.3.jar",
+            "url": "http://localhost:8080/servers/hydro-cobblemon-1.20.1/files/mods_config/required/Oh-The-Trees-Youll-Grow-fabric-1.20.1-1.3.3.jar",
             "MD5": "8132d6032c2f70e35c771b1cf8576646",
-            "path": "mods/Oh-The-Trees-Youll-Grow-fabric-1.20.1-1.3.3.jar"
+            "path": "mods_config/required/Oh-The-Trees-Youll-Grow-fabric-1.20.1-1.3.3.jar"
           }
         },
         {
@@ -42779,9 +42790,9 @@
           "type": "File",
           "artifact": {
             "size": 36876,
-            "url": "http://localhost:8080/servers/hydro-cobblemon-1.20.1/files/mods/openblockselevator-0.0.3-1.20.1.jar",
+            "url": "http://localhost:8080/servers/hydro-cobblemon-1.20.1/files/mods_config/required/openblockselevator-0.0.3-1.20.1.jar",
             "MD5": "ba0770edd758e026d0f82403c19e8390",
-            "path": "mods/openblockselevator-0.0.3-1.20.1.jar"
+            "path": "mods_config/required/openblockselevator-0.0.3-1.20.1.jar"
           }
         },
         {
@@ -42790,9 +42801,9 @@
           "type": "File",
           "artifact": {
             "size": 8038,
-            "url": "http://localhost:8080/servers/hydro-cobblemon-1.20.1/files/mods/OpenSauceToastKiller.jar",
+            "url": "http://localhost:8080/servers/hydro-cobblemon-1.20.1/files/mods_config/required/OpenSauceToastKiller.jar",
             "MD5": "5b9ff9c7969225e1fb3f372486c6add9",
-            "path": "mods/OpenSauceToastKiller.jar"
+            "path": "mods_config/required/OpenSauceToastKiller.jar"
           }
         },
         {
@@ -42801,9 +42812,9 @@
           "type": "File",
           "artifact": {
             "size": 905421,
-            "url": "http://localhost:8080/servers/hydro-cobblemon-1.20.1/files/mods/owo-lib-0.11.2+1.20.jar",
+            "url": "http://localhost:8080/servers/hydro-cobblemon-1.20.1/files/mods_config/required/owo-lib-0.11.2+1.20.jar",
             "MD5": "9150f588f732ae38c0320a17fa340626",
-            "path": "mods/owo-lib-0.11.2+1.20.jar"
+            "path": "mods_config/required/owo-lib-0.11.2+1.20.jar"
           }
         },
         {
@@ -42812,9 +42823,9 @@
           "type": "File",
           "artifact": {
             "size": 856882,
-            "url": "http://localhost:8080/servers/hydro-cobblemon-1.20.1/files/mods/Patchouli-1.20.1-84-FABRIC.jar",
+            "url": "http://localhost:8080/servers/hydro-cobblemon-1.20.1/files/mods_config/required/Patchouli-1.20.1-84-FABRIC.jar",
             "MD5": "f6ba47b02420c150a14eac64ac3625ae",
-            "path": "mods/Patchouli-1.20.1-84-FABRIC.jar"
+            "path": "mods_config/required/Patchouli-1.20.1-84-FABRIC.jar"
           }
         },
         {
@@ -42823,9 +42834,9 @@
           "type": "File",
           "artifact": {
             "size": 555041,
-            "url": "http://localhost:8080/servers/hydro-cobblemon-1.20.1/files/mods/Pehkui-3.8.3+1.14.4-1.21.jar",
+            "url": "http://localhost:8080/servers/hydro-cobblemon-1.20.1/files/mods_config/required/Pehkui-3.8.3+1.14.4-1.21.jar",
             "MD5": "c28dbac324e13836c2c15e47bfcd9e45",
-            "path": "mods/Pehkui-3.8.3+1.14.4-1.21.jar"
+            "path": "mods_config/required/Pehkui-3.8.3+1.14.4-1.21.jar"
           }
         },
         {
@@ -42834,9 +42845,9 @@
           "type": "File",
           "artifact": {
             "size": 21979,
-            "url": "http://localhost:8080/servers/hydro-cobblemon-1.20.1/files/mods/player-ladder-0.6.0-1.20.jar",
+            "url": "http://localhost:8080/servers/hydro-cobblemon-1.20.1/files/mods_config/required/player-ladder-0.6.0-1.20.jar",
             "MD5": "8546946eb026bdc342e32f6b120285fc",
-            "path": "mods/player-ladder-0.6.0-1.20.jar"
+            "path": "mods_config/required/player-ladder-0.6.0-1.20.jar"
           }
         },
         {
@@ -42845,9 +42856,9 @@
           "type": "File",
           "artifact": {
             "size": 238022,
-            "url": "http://localhost:8080/servers/hydro-cobblemon-1.20.1/files/mods/player-roles-1.6.6.jar",
+            "url": "http://localhost:8080/servers/hydro-cobblemon-1.20.1/files/mods_config/required/player-roles-1.6.6.jar",
             "MD5": "5d481e6b8df9bf33e8027ee7a9c576ad",
-            "path": "mods/player-roles-1.6.6.jar"
+            "path": "mods_config/required/player-roles-1.6.6.jar"
           }
         },
         {
@@ -42856,9 +42867,9 @@
           "type": "File",
           "artifact": {
             "size": 1116171,
-            "url": "http://localhost:8080/servers/hydro-cobblemon-1.20.1/files/mods/pokeblocks-1.3.0-1.20.1.jar",
+            "url": "http://localhost:8080/servers/hydro-cobblemon-1.20.1/files/mods_config/required/pokeblocks-1.3.0-1.20.1.jar",
             "MD5": "fe3ead3277ffde488d4bd36bbf7f9e12",
-            "path": "mods/pokeblocks-1.3.0-1.20.1.jar"
+            "path": "mods_config/required/pokeblocks-1.3.0-1.20.1.jar"
           }
         },
         {
@@ -42867,9 +42878,9 @@
           "type": "File",
           "artifact": {
             "size": 57257,
-            "url": "http://localhost:8080/servers/hydro-cobblemon-1.20.1/files/mods/Prism-1.20.1-fabric-1.0.5.jar",
+            "url": "http://localhost:8080/servers/hydro-cobblemon-1.20.1/files/mods_config/required/Prism-1.20.1-fabric-1.0.5.jar",
             "MD5": "2eed6d81c1b72c75646d33b1b5d9dcfe",
-            "path": "mods/Prism-1.20.1-fabric-1.0.5.jar"
+            "path": "mods_config/required/Prism-1.20.1-fabric-1.0.5.jar"
           }
         },
         {
@@ -42878,9 +42889,9 @@
           "type": "File",
           "artifact": {
             "size": 980317,
-            "url": "http://localhost:8080/servers/hydro-cobblemon-1.20.1/files/mods/PuzzlesLib-v8.1.25-1.20.1-Fabric.jar",
+            "url": "http://localhost:8080/servers/hydro-cobblemon-1.20.1/files/mods_config/required/PuzzlesLib-v8.1.25-1.20.1-Fabric.jar",
             "MD5": "49793f101337dcf4eaa05bf7bb63cd5f",
-            "path": "mods/PuzzlesLib-v8.1.25-1.20.1-Fabric.jar"
+            "path": "mods_config/required/PuzzlesLib-v8.1.25-1.20.1-Fabric.jar"
           }
         },
         {
@@ -42889,9 +42900,9 @@
           "type": "File",
           "artifact": {
             "size": 77659,
-            "url": "http://localhost:8080/servers/hydro-cobblemon-1.20.1/files/mods/ResourcePackOverrides-v8.0.3-1.20.1-Fabric.jar",
+            "url": "http://localhost:8080/servers/hydro-cobblemon-1.20.1/files/mods_config/required/ResourcePackOverrides-v8.0.3-1.20.1-Fabric.jar",
             "MD5": "05fc917ce7e8f45489285cde5298320f",
-            "path": "mods/ResourcePackOverrides-v8.0.3-1.20.1-Fabric.jar"
+            "path": "mods_config/required/ResourcePackOverrides-v8.0.3-1.20.1-Fabric.jar"
           }
         },
         {
@@ -42900,9 +42911,9 @@
           "type": "File",
           "artifact": {
             "size": 1741934,
-            "url": "http://localhost:8080/servers/hydro-cobblemon-1.20.1/files/mods/rhino-fabric-2001.2.3-build.6.jar",
+            "url": "http://localhost:8080/servers/hydro-cobblemon-1.20.1/files/mods_config/required/rhino-fabric-2001.2.3-build.6.jar",
             "MD5": "5317ab3c993c4a3588afb265f0882867",
-            "path": "mods/rhino-fabric-2001.2.3-build.6.jar"
+            "path": "mods_config/required/rhino-fabric-2001.2.3-build.6.jar"
           }
         },
         {
@@ -42911,9 +42922,9 @@
           "type": "File",
           "artifact": {
             "size": 2443883,
-            "url": "http://localhost:8080/servers/hydro-cobblemon-1.20.1/files/mods/RoughlyEnoughItems-12.1.785-fabric.jar",
+            "url": "http://localhost:8080/servers/hydro-cobblemon-1.20.1/files/mods_config/required/RoughlyEnoughItems-12.1.785-fabric.jar",
             "MD5": "f4c4a3d57e68c3fc22da73b341c7fa7e",
-            "path": "mods/RoughlyEnoughItems-12.1.785-fabric.jar"
+            "path": "mods_config/required/RoughlyEnoughItems-12.1.785-fabric.jar"
           }
         },
         {
@@ -42922,9 +42933,9 @@
           "type": "File",
           "artifact": {
             "size": 1007608,
-            "url": "http://localhost:8080/servers/hydro-cobblemon-1.20.1/files/mods/seamless-loading-screen-2.0.3+1.20.1-fabric.jar",
+            "url": "http://localhost:8080/servers/hydro-cobblemon-1.20.1/files/mods_config/required/seamless-loading-screen-2.0.3+1.20.1-fabric.jar",
             "MD5": "7fd64cade9204b1986b26fbb22a8dd5c",
-            "path": "mods/seamless-loading-screen-2.0.3+1.20.1-fabric.jar"
+            "path": "mods_config/required/seamless-loading-screen-2.0.3+1.20.1-fabric.jar"
           }
         },
         {
@@ -42933,9 +42944,9 @@
           "type": "File",
           "artifact": {
             "size": 80283,
-            "url": "http://localhost:8080/servers/hydro-cobblemon-1.20.1/files/mods/Searchables-fabric-1.20.1-1.0.3.jar",
+            "url": "http://localhost:8080/servers/hydro-cobblemon-1.20.1/files/mods_config/required/Searchables-fabric-1.20.1-1.0.3.jar",
             "MD5": "92d987a6bc23a419a439f876fd9e4d59",
-            "path": "mods/Searchables-fabric-1.20.1-1.0.3.jar"
+            "path": "mods_config/required/Searchables-fabric-1.20.1-1.0.3.jar"
           }
         },
         {
@@ -42944,9 +42955,9 @@
           "type": "File",
           "artifact": {
             "size": 34236,
-            "url": "http://localhost:8080/servers/hydro-cobblemon-1.20.1/files/mods/server-hats-0.16.jar",
+            "url": "http://localhost:8080/servers/hydro-cobblemon-1.20.1/files/mods_config/required/server-hats-0.16.jar",
             "MD5": "2bae112c34a3da80910f0759a4cc8cff",
-            "path": "mods/server-hats-0.16.jar"
+            "path": "mods_config/required/server-hats-0.16.jar"
           }
         },
         {
@@ -42955,9 +42966,9 @@
           "type": "File",
           "artifact": {
             "size": 9766,
-            "url": "http://localhost:8080/servers/hydro-cobblemon-1.20.1/files/mods/shader-toggle-1.0.jar",
+            "url": "http://localhost:8080/servers/hydro-cobblemon-1.20.1/files/mods_config/required/shader-toggle-1.0.jar",
             "MD5": "5f11b6516f03668cfcbbd00cd13bc56e",
-            "path": "mods/shader-toggle-1.0.jar"
+            "path": "mods_config/required/shader-toggle-1.0.jar"
           }
         },
         {
@@ -42966,9 +42977,9 @@
           "type": "File",
           "artifact": {
             "size": 64238,
-            "url": "http://localhost:8080/servers/hydro-cobblemon-1.20.1/files/mods/sit-1.20.1-27.jar",
+            "url": "http://localhost:8080/servers/hydro-cobblemon-1.20.1/files/mods_config/required/sit-1.20.1-27.jar",
             "MD5": "cb59bea8fdbd7a6f17108b83f4570365",
-            "path": "mods/sit-1.20.1-27.jar"
+            "path": "mods_config/required/sit-1.20.1-27.jar"
           }
         },
         {
@@ -42977,9 +42988,9 @@
           "type": "File",
           "artifact": {
             "size": 2925864,
-            "url": "http://localhost:8080/servers/hydro-cobblemon-1.20.1/files/mods/Slideshow-fabric-1.20.1-1.0.3-Enhancement-1.jar",
+            "url": "http://localhost:8080/servers/hydro-cobblemon-1.20.1/files/mods_config/required/Slideshow-fabric-1.20.1-1.0.3-Enhancement-1.jar",
             "MD5": "3d409aeba5d7e37d151b87cd1019a9c1",
-            "path": "mods/Slideshow-fabric-1.20.1-1.0.3-Enhancement-1.jar"
+            "path": "mods_config/required/Slideshow-fabric-1.20.1-1.0.3-Enhancement-1.jar"
           }
         },
         {
@@ -42988,9 +42999,9 @@
           "type": "File",
           "artifact": {
             "size": 61986,
-            "url": "http://localhost:8080/servers/hydro-cobblemon-1.20.1/files/mods/smoothswapping-0.9.3.1-1.20.2-fabric.jar",
+            "url": "http://localhost:8080/servers/hydro-cobblemon-1.20.1/files/mods_config/required/smoothswapping-0.9.3.1-1.20.2-fabric.jar",
             "MD5": "b4410e1317c568a4cd429e62f614dcd8",
-            "path": "mods/smoothswapping-0.9.3.1-1.20.2-fabric.jar"
+            "path": "mods_config/required/smoothswapping-0.9.3.1-1.20.2-fabric.jar"
           }
         },
         {
@@ -42999,9 +43010,9 @@
           "type": "File",
           "artifact": {
             "size": 385539,
-            "url": "http://localhost:8080/servers/hydro-cobblemon-1.20.1/files/mods/sodium-extra-0.5.4+mc1.20.1-build.115.jar",
+            "url": "http://localhost:8080/servers/hydro-cobblemon-1.20.1/files/mods_config/required/sodium-extra-0.5.4+mc1.20.1-build.115.jar",
             "MD5": "9eaed09a486eee9a1326de5dd80faa0a",
-            "path": "mods/sodium-extra-0.5.4+mc1.20.1-build.115.jar"
+            "path": "mods_config/required/sodium-extra-0.5.4+mc1.20.1-build.115.jar"
           }
         },
         {
@@ -43010,9 +43021,9 @@
           "type": "File",
           "artifact": {
             "size": 968419,
-            "url": "http://localhost:8080/servers/hydro-cobblemon-1.20.1/files/mods/sodium-fabric-0.5.11+mc1.20.1.jar",
+            "url": "http://localhost:8080/servers/hydro-cobblemon-1.20.1/files/mods_config/required/sodium-fabric-0.5.11+mc1.20.1.jar",
             "MD5": "9880bae748957d1cb6c4de50c8e0452a",
-            "path": "mods/sodium-fabric-0.5.11+mc1.20.1.jar"
+            "path": "mods_config/required/sodium-fabric-0.5.11+mc1.20.1.jar"
           }
         },
         {
@@ -43021,9 +43032,9 @@
           "type": "File",
           "artifact": {
             "size": 2084520,
-            "url": "http://localhost:8080/servers/hydro-cobblemon-1.20.1/files/mods/solara_dimension-0.1A-fabric-1.20.1.jar",
+            "url": "http://localhost:8080/servers/hydro-cobblemon-1.20.1/files/mods_config/required/solara_dimension-0.1A-fabric-1.20.1.jar",
             "MD5": "84eff720d528751d5d1f3c667a3590a0",
-            "path": "mods/solara_dimension-0.1A-fabric-1.20.1.jar"
+            "path": "mods_config/required/solara_dimension-0.1A-fabric-1.20.1.jar"
           }
         },
         {
@@ -43032,9 +43043,9 @@
           "type": "File",
           "artifact": {
             "size": 948244,
-            "url": "http://localhost:8080/servers/hydro-cobblemon-1.20.1/files/mods/sophisticatedbackpacks-1.20.1-3.20.17.1.60.jar",
+            "url": "http://localhost:8080/servers/hydro-cobblemon-1.20.1/files/mods_config/required/sophisticatedbackpacks-1.20.1-3.20.17.1.60.jar",
             "MD5": "38d887e7e6c7d0198c43784433df5611",
-            "path": "mods/sophisticatedbackpacks-1.20.1-3.20.17.1.60.jar"
+            "path": "mods_config/required/sophisticatedbackpacks-1.20.1-3.20.17.1.60.jar"
           }
         },
         {
@@ -43043,9 +43054,9 @@
           "type": "File",
           "artifact": {
             "size": 3137887,
-            "url": "http://localhost:8080/servers/hydro-cobblemon-1.20.1/files/mods/sophisticatedcore-1.20.1-0.7.12.2.96.jar",
+            "url": "http://localhost:8080/servers/hydro-cobblemon-1.20.1/files/mods_config/required/sophisticatedcore-1.20.1-0.7.12.2.96.jar",
             "MD5": "bb935721cb40f8207d8f3e1a25409ca8",
-            "path": "mods/sophisticatedcore-1.20.1-0.7.12.2.96.jar"
+            "path": "mods_config/required/sophisticatedcore-1.20.1-0.7.12.2.96.jar"
           }
         },
         {
@@ -43054,9 +43065,9 @@
           "type": "File",
           "artifact": {
             "size": 1585066,
-            "url": "http://localhost:8080/servers/hydro-cobblemon-1.20.1/files/mods/sophisticatedstorage-1.20.1-0.11.3.1.73.jar",
+            "url": "http://localhost:8080/servers/hydro-cobblemon-1.20.1/files/mods_config/required/sophisticatedstorage-1.20.1-0.11.3.1.73.jar",
             "MD5": "b45122fe7b4e935041d1263337043ed6",
-            "path": "mods/sophisticatedstorage-1.20.1-0.11.3.1.73.jar"
+            "path": "mods_config/required/sophisticatedstorage-1.20.1-0.11.3.1.73.jar"
           }
         },
         {
@@ -43065,9 +43076,9 @@
           "type": "File",
           "artifact": {
             "size": 16156,
-            "url": "http://localhost:8080/servers/hydro-cobblemon-1.20.1/files/mods/spawnercontrol-fabric-1.20.x-v1.1.jar",
+            "url": "http://localhost:8080/servers/hydro-cobblemon-1.20.1/files/mods_config/required/spawnercontrol-fabric-1.20.x-v1.1.jar",
             "MD5": "9ef724680f80f09444a0d3b2e3f08ac9",
-            "path": "mods/spawnercontrol-fabric-1.20.x-v1.1.jar"
+            "path": "mods_config/required/spawnercontrol-fabric-1.20.x-v1.1.jar"
           }
         },
         {
@@ -43076,9 +43087,9 @@
           "type": "File",
           "artifact": {
             "size": 1351901,
-            "url": "http://localhost:8080/servers/hydro-cobblemon-1.20.1/files/mods/staracademy-mc1.20.1-v1.0.0.130-fabric.jar",
+            "url": "http://localhost:8080/servers/hydro-cobblemon-1.20.1/files/mods_config/required/staracademy-mc1.20.1-v1.0.0.130-fabric.jar",
             "MD5": "69e93f95b2d840cb62b737179ab6af84",
-            "path": "mods/staracademy-mc1.20.1-v1.0.0.130-fabric.jar"
+            "path": "mods_config/required/staracademy-mc1.20.1-v1.0.0.130-fabric.jar"
           }
         },
         {
@@ -43087,9 +43098,9 @@
           "type": "File",
           "artifact": {
             "size": 185220,
-            "url": "http://localhost:8080/servers/hydro-cobblemon-1.20.1/files/mods/starterkit-1.20.1-7.1.jar",
+            "url": "http://localhost:8080/servers/hydro-cobblemon-1.20.1/files/mods_config/required/starterkit-1.20.1-7.1.jar",
             "MD5": "7e50c9e88f261f76fd6c3de72ea4b17c",
-            "path": "mods/starterkit-1.20.1-7.1.jar"
+            "path": "mods_config/required/starterkit-1.20.1-7.1.jar"
           }
         },
         {
@@ -43098,9 +43109,9 @@
           "type": "File",
           "artifact": {
             "size": 2477930,
-            "url": "http://localhost:8080/servers/hydro-cobblemon-1.20.1/files/mods/Stoneworks-v8.0.0-1.20.1-Fabric.jar",
+            "url": "http://localhost:8080/servers/hydro-cobblemon-1.20.1/files/mods_config/required/Stoneworks-v8.0.0-1.20.1-Fabric.jar",
             "MD5": "a2769a27367d659e6d4d0e70e7dd5d9d",
-            "path": "mods/Stoneworks-v8.0.0-1.20.1-Fabric.jar"
+            "path": "mods_config/required/Stoneworks-v8.0.0-1.20.1-Fabric.jar"
           }
         },
         {
@@ -43109,9 +43120,9 @@
           "type": "File",
           "artifact": {
             "size": 322358,
-            "url": "http://localhost:8080/servers/hydro-cobblemon-1.20.1/files/mods/TerraBlender-fabric-1.20.1-3.0.1.7.jar",
+            "url": "http://localhost:8080/servers/hydro-cobblemon-1.20.1/files/mods_config/required/TerraBlender-fabric-1.20.1-3.0.1.7.jar",
             "MD5": "949c7917252c855fc549578aa8caf57c",
-            "path": "mods/TerraBlender-fabric-1.20.1-3.0.1.7.jar"
+            "path": "mods_config/required/TerraBlender-fabric-1.20.1-3.0.1.7.jar"
           }
         },
         {
@@ -43120,9 +43131,9 @@
           "type": "File",
           "artifact": {
             "size": 547693,
-            "url": "http://localhost:8080/servers/hydro-cobblemon-1.20.1/files/mods/Terrastorage-1.0.7+1.20-1.20.1.jar",
+            "url": "http://localhost:8080/servers/hydro-cobblemon-1.20.1/files/mods_config/required/Terrastorage-1.0.7+1.20-1.20.1.jar",
             "MD5": "8d9018528674aa9796aa25f26adb445a",
-            "path": "mods/Terrastorage-1.0.7+1.20-1.20.1.jar"
+            "path": "mods_config/required/Terrastorage-1.0.7+1.20-1.20.1.jar"
           }
         },
         {
@@ -43131,9 +43142,9 @@
           "type": "File",
           "artifact": {
             "size": 405567,
-            "url": "http://localhost:8080/servers/hydro-cobblemon-1.20.1/files/mods/terrastorageicons-1.0.0.jar",
+            "url": "http://localhost:8080/servers/hydro-cobblemon-1.20.1/files/mods_config/required/terrastorageicons-1.0.0.jar",
             "MD5": "bb666e0596b67e099c85fd95222235df",
-            "path": "mods/terrastorageicons-1.0.0.jar"
+            "path": "mods_config/required/terrastorageicons-1.0.0.jar"
           }
         },
         {
@@ -43142,9 +43153,9 @@
           "type": "File",
           "artifact": {
             "size": 110098,
-            "url": "http://localhost:8080/servers/hydro-cobblemon-1.20.1/files/mods/tidal-towns-1.3.4.jar",
+            "url": "http://localhost:8080/servers/hydro-cobblemon-1.20.1/files/mods_config/required/tidal-towns-1.3.4.jar",
             "MD5": "3e0b71a61aa857a9a851a1786f07ae73",
-            "path": "mods/tidal-towns-1.3.4.jar"
+            "path": "mods_config/required/tidal-towns-1.3.4.jar"
           }
         },
         {
@@ -43153,9 +43164,9 @@
           "type": "File",
           "artifact": {
             "size": 1522498,
-            "url": "http://localhost:8080/servers/hydro-cobblemon-1.20.1/files/mods/toms_storage_fabric-1.20-1.6.9.jar",
+            "url": "http://localhost:8080/servers/hydro-cobblemon-1.20.1/files/mods_config/required/toms_storage_fabric-1.20-1.6.9.jar",
             "MD5": "ab1e43fbc34a52eeb8551265580a18f4",
-            "path": "mods/toms_storage_fabric-1.20-1.6.9.jar"
+            "path": "mods_config/required/toms_storage_fabric-1.20-1.6.9.jar"
           }
         },
         {
@@ -43164,9 +43175,9 @@
           "type": "File",
           "artifact": {
             "size": 288244,
-            "url": "http://localhost:8080/servers/hydro-cobblemon-1.20.1/files/mods/totw_modded-fabric-1.20.1-1.0.5.jar",
+            "url": "http://localhost:8080/servers/hydro-cobblemon-1.20.1/files/mods_config/required/totw_modded-fabric-1.20.1-1.0.5.jar",
             "MD5": "68df478611f563fce504fd48acb3a24f",
-            "path": "mods/totw_modded-fabric-1.20.1-1.0.5.jar"
+            "path": "mods_config/required/totw_modded-fabric-1.20.1-1.0.5.jar"
           }
         },
         {
@@ -43175,9 +43186,9 @@
           "type": "File",
           "artifact": {
             "size": 118435,
-            "url": "http://localhost:8080/servers/hydro-cobblemon-1.20.1/files/mods/trashslot-fabric-1.20-15.1.1.jar",
+            "url": "http://localhost:8080/servers/hydro-cobblemon-1.20.1/files/mods_config/required/trashslot-fabric-1.20-15.1.1.jar",
             "MD5": "00c35e276616ee7b8d4c6246da9117b7",
-            "path": "mods/trashslot-fabric-1.20-15.1.1.jar"
+            "path": "mods_config/required/trashslot-fabric-1.20-15.1.1.jar"
           }
         },
         {
@@ -43186,9 +43197,9 @@
           "type": "File",
           "artifact": {
             "size": 345764,
-            "url": "http://localhost:8080/servers/hydro-cobblemon-1.20.1/files/mods/TravelersTitles-1.20-Fabric-4.0.2.jar",
+            "url": "http://localhost:8080/servers/hydro-cobblemon-1.20.1/files/mods_config/required/TravelersTitles-1.20-Fabric-4.0.2.jar",
             "MD5": "74c168290cb05d1fb9d426989cee4bef",
-            "path": "mods/TravelersTitles-1.20-Fabric-4.0.2.jar"
+            "path": "mods_config/required/TravelersTitles-1.20-Fabric-4.0.2.jar"
           }
         },
         {
@@ -43197,9 +43208,9 @@
           "type": "File",
           "artifact": {
             "size": 85932,
-            "url": "http://localhost:8080/servers/hydro-cobblemon-1.20.1/files/mods/treeharvester-1.20.1-9.1.jar",
+            "url": "http://localhost:8080/servers/hydro-cobblemon-1.20.1/files/mods_config/required/treeharvester-1.20.1-9.1.jar",
             "MD5": "5eb545033d4c95bcad95e690f8c7618e",
-            "path": "mods/treeharvester-1.20.1-9.1.jar"
+            "path": "mods_config/required/treeharvester-1.20.1-9.1.jar"
           }
         },
         {
@@ -43208,9 +43219,9 @@
           "type": "File",
           "artifact": {
             "size": 238532,
-            "url": "http://localhost:8080/servers/hydro-cobblemon-1.20.1/files/mods/trinkets-3.7.2.jar",
+            "url": "http://localhost:8080/servers/hydro-cobblemon-1.20.1/files/mods_config/required/trinkets-3.7.2.jar",
             "MD5": "c010ccc2015e5b1f3cb1994694ecc512",
-            "path": "mods/trinkets-3.7.2.jar"
+            "path": "mods_config/required/trinkets-3.7.2.jar"
           }
         },
         {
@@ -43219,9 +43230,9 @@
           "type": "File",
           "artifact": {
             "size": 460079,
-            "url": "http://localhost:8080/servers/hydro-cobblemon-1.20.1/files/mods/veinmining-fabric-1.5.0+1.20.1.jar",
+            "url": "http://localhost:8080/servers/hydro-cobblemon-1.20.1/files/mods_config/required/veinmining-fabric-1.5.0+1.20.1.jar",
             "MD5": "4d920fe395fb09be67b083c3ab2aab2d",
-            "path": "mods/veinmining-fabric-1.5.0+1.20.1.jar"
+            "path": "mods_config/required/veinmining-fabric-1.5.0+1.20.1.jar"
           }
         },
         {
@@ -43230,9 +43241,9 @@
           "type": "File",
           "artifact": {
             "size": 8082081,
-            "url": "http://localhost:8080/servers/hydro-cobblemon-1.20.1/files/mods/voicechat-fabric-1.20.1-2.5.26.jar",
+            "url": "http://localhost:8080/servers/hydro-cobblemon-1.20.1/files/mods_config/required/voicechat-fabric-1.20.1-2.5.26.jar",
             "MD5": "2c9d809c1b1c53863840ee3bce6f73a5",
-            "path": "mods/voicechat-fabric-1.20.1-2.5.26.jar"
+            "path": "mods_config/required/voicechat-fabric-1.20.1-2.5.26.jar"
           }
         },
         {
@@ -43241,9 +43252,9 @@
           "type": "File",
           "artifact": {
             "size": 232699,
-            "url": "http://localhost:8080/servers/hydro-cobblemon-1.20.1/files/mods/waterframes-FABRIC-mc1.20.1-v2.1.7b.jar",
+            "url": "http://localhost:8080/servers/hydro-cobblemon-1.20.1/files/mods_config/required/waterframes-FABRIC-mc1.20.1-v2.1.7b.jar",
             "MD5": "1be14f7cbbe6df3fc523db87f408044f",
-            "path": "mods/waterframes-FABRIC-mc1.20.1-v2.1.7b.jar"
+            "path": "mods_config/required/waterframes-FABRIC-mc1.20.1-v2.1.7b.jar"
           }
         },
         {
@@ -43252,9 +43263,9 @@
           "type": "File",
           "artifact": {
             "size": 37845302,
-            "url": "http://localhost:8080/servers/hydro-cobblemon-1.20.1/files/mods/watermedia-2.1.19.jar",
+            "url": "http://localhost:8080/servers/hydro-cobblemon-1.20.1/files/mods_config/required/watermedia-2.1.19.jar",
             "MD5": "d047db3da02e768eb5bdc373178e76c2",
-            "path": "mods/watermedia-2.1.19.jar"
+            "path": "mods_config/required/watermedia-2.1.19.jar"
           }
         },
         {
@@ -43263,9 +43274,9 @@
           "type": "File",
           "artifact": {
             "size": 483869,
-            "url": "http://localhost:8080/servers/hydro-cobblemon-1.20.1/files/mods/waystones-fabric-1.20-14.1.6.jar",
+            "url": "http://localhost:8080/servers/hydro-cobblemon-1.20.1/files/mods_config/required/waystones-fabric-1.20-14.1.6.jar",
             "MD5": "0cbd44fe0de167c7baf6d1de32edca1d",
-            "path": "mods/waystones-fabric-1.20-14.1.6.jar"
+            "path": "mods_config/required/waystones-fabric-1.20-14.1.6.jar"
           }
         },
         {
@@ -43274,9 +43285,9 @@
           "type": "File",
           "artifact": {
             "size": 138685,
-            "url": "http://localhost:8080/servers/hydro-cobblemon-1.20.1/files/mods/wherearemytms-2.1.2-hotfix.jar",
+            "url": "http://localhost:8080/servers/hydro-cobblemon-1.20.1/files/mods_config/required/wherearemytms-2.1.2-hotfix.jar",
             "MD5": "b03d52f382e24b5b12463d04c29dc7f1",
-            "path": "mods/wherearemytms-2.1.2-hotfix.jar"
+            "path": "mods_config/required/wherearemytms-2.1.2-hotfix.jar"
           }
         },
         {
@@ -43285,9 +43296,9 @@
           "type": "File",
           "artifact": {
             "size": 5825402,
-            "url": "http://localhost:8080/servers/hydro-cobblemon-1.20.1/files/mods/worldedit-mod-7.2.15.jar",
+            "url": "http://localhost:8080/servers/hydro-cobblemon-1.20.1/files/mods_config/required/worldedit-mod-7.2.15.jar",
             "MD5": "bd0e7cff7896348faab92e43300d0639",
-            "path": "mods/worldedit-mod-7.2.15.jar"
+            "path": "mods_config/required/worldedit-mod-7.2.15.jar"
           }
         },
         {
@@ -43296,9 +43307,9 @@
           "type": "File",
           "artifact": {
             "size": 782414,
-            "url": "http://localhost:8080/servers/hydro-cobblemon-1.20.1/files/mods/wthit-fabric-8.15.5.jar",
+            "url": "http://localhost:8080/servers/hydro-cobblemon-1.20.1/files/mods_config/required/wthit-fabric-8.15.5.jar",
             "MD5": "b7eeda24021ded7869bea731c1483c4a",
-            "path": "mods/wthit-fabric-8.15.5.jar"
+            "path": "mods_config/required/wthit-fabric-8.15.5.jar"
           }
         },
         {
@@ -43307,9 +43318,9 @@
           "type": "File",
           "artifact": {
             "size": 2172855,
-            "url": "http://localhost:8080/servers/hydro-cobblemon-1.20.1/files/mods/WWOO-FABRIC+FORGE+QUILT-2.0.0.jar",
+            "url": "http://localhost:8080/servers/hydro-cobblemon-1.20.1/files/mods_config/required/WWOO-FABRIC+FORGE+QUILT-2.0.0.jar",
             "MD5": "edac266d810af52de52a4243c74e1a2b",
-            "path": "mods/WWOO-FABRIC+FORGE+QUILT-2.0.0.jar"
+            "path": "mods_config/required/WWOO-FABRIC+FORGE+QUILT-2.0.0.jar"
           }
         },
         {
@@ -43318,9 +43329,9 @@
           "type": "File",
           "artifact": {
             "size": 66611,
-            "url": "http://localhost:8080/servers/hydro-cobblemon-1.20.1/files/mods/yetanotherchancebooster-fabric-1.0.1.jar",
+            "url": "http://localhost:8080/servers/hydro-cobblemon-1.20.1/files/mods_config/required/yetanotherchancebooster-fabric-1.0.1.jar",
             "MD5": "5cdb7bfbf06796820e5f2147c8da3177",
-            "path": "mods/yetanotherchancebooster-fabric-1.0.1.jar"
+            "path": "mods_config/required/yetanotherchancebooster-fabric-1.0.1.jar"
           }
         },
         {
@@ -43329,9 +43340,9 @@
           "type": "File",
           "artifact": {
             "size": 1106630,
-            "url": "http://localhost:8080/servers/hydro-cobblemon-1.20.1/files/mods/YetAnotherConfigLib-3.6.2+1.20.1-fabric.jar",
+            "url": "http://localhost:8080/servers/hydro-cobblemon-1.20.1/files/mods_config/required/YetAnotherConfigLib-3.6.2+1.20.1-fabric.jar",
             "MD5": "976f29a1a0754edf18c349cf644f9f78",
-            "path": "mods/YetAnotherConfigLib-3.6.2+1.20.1-fabric.jar"
+            "path": "mods_config/required/YetAnotherConfigLib-3.6.2+1.20.1-fabric.jar"
           }
         },
         {
@@ -43340,9 +43351,9 @@
           "type": "File",
           "artifact": {
             "size": 1396331,
-            "url": "http://localhost:8080/servers/hydro-cobblemon-1.20.1/files/mods/YungsApi-1.20-Fabric-4.0.6.jar",
+            "url": "http://localhost:8080/servers/hydro-cobblemon-1.20.1/files/mods_config/required/YungsApi-1.20-Fabric-4.0.6.jar",
             "MD5": "25624d7157f4b60827c4b6d06c0b8fc0",
-            "path": "mods/YungsApi-1.20-Fabric-4.0.6.jar"
+            "path": "mods_config/required/YungsApi-1.20-Fabric-4.0.6.jar"
           }
         },
         {
@@ -43351,9 +43362,9 @@
           "type": "File",
           "artifact": {
             "size": 1063786,
-            "url": "http://localhost:8080/servers/hydro-cobblemon-1.20.1/files/mods/YungsBetterDesertTemples-1.20-Fabric-3.0.3.jar",
+            "url": "http://localhost:8080/servers/hydro-cobblemon-1.20.1/files/mods_config/required/YungsBetterDesertTemples-1.20-Fabric-3.0.3.jar",
             "MD5": "7dd4fec6982f0946575a4caab6248060",
-            "path": "mods/YungsBetterDesertTemples-1.20-Fabric-3.0.3.jar"
+            "path": "mods_config/required/YungsBetterDesertTemples-1.20-Fabric-3.0.3.jar"
           }
         },
         {
@@ -43362,9 +43373,9 @@
           "type": "File",
           "artifact": {
             "size": 947293,
-            "url": "http://localhost:8080/servers/hydro-cobblemon-1.20.1/files/mods/YungsBetterJungleTemples-1.20-Fabric-2.0.5.jar",
+            "url": "http://localhost:8080/servers/hydro-cobblemon-1.20.1/files/mods_config/required/YungsBetterJungleTemples-1.20-Fabric-2.0.5.jar",
             "MD5": "b34e5608a93b6a2aa043e4c49f36aff7",
-            "path": "mods/YungsBetterJungleTemples-1.20-Fabric-2.0.5.jar"
+            "path": "mods_config/required/YungsBetterJungleTemples-1.20-Fabric-2.0.5.jar"
           }
         },
         {
@@ -43373,9 +43384,9 @@
           "type": "File",
           "artifact": {
             "size": 621495,
-            "url": "http://localhost:8080/servers/hydro-cobblemon-1.20.1/files/mods/YungsBetterMineshafts-1.20-Fabric-4.0.4.jar",
+            "url": "http://localhost:8080/servers/hydro-cobblemon-1.20.1/files/mods_config/required/YungsBetterMineshafts-1.20-Fabric-4.0.4.jar",
             "MD5": "88e49e369f9fd20958c87138328b8c3c",
-            "path": "mods/YungsBetterMineshafts-1.20-Fabric-4.0.4.jar"
+            "path": "mods_config/required/YungsBetterMineshafts-1.20-Fabric-4.0.4.jar"
           }
         },
         {
@@ -43384,9 +43395,9 @@
           "type": "File",
           "artifact": {
             "size": 760974,
-            "url": "http://localhost:8080/servers/hydro-cobblemon-1.20.1/files/mods/YungsBetterNetherFortresses-1.20-Fabric-2.0.6.jar",
+            "url": "http://localhost:8080/servers/hydro-cobblemon-1.20.1/files/mods_config/required/YungsBetterNetherFortresses-1.20-Fabric-2.0.6.jar",
             "MD5": "aefeee128bbae518186bd3d73c59c74a",
-            "path": "mods/YungsBetterNetherFortresses-1.20-Fabric-2.0.6.jar"
+            "path": "mods_config/required/YungsBetterNetherFortresses-1.20-Fabric-2.0.6.jar"
           }
         },
         {
@@ -43395,9 +43406,9 @@
           "type": "File",
           "artifact": {
             "size": 1165832,
-            "url": "http://localhost:8080/servers/hydro-cobblemon-1.20.1/files/mods/YungsBetterOceanMonuments-1.20-Fabric-3.0.4.jar",
+            "url": "http://localhost:8080/servers/hydro-cobblemon-1.20.1/files/mods_config/required/YungsBetterOceanMonuments-1.20-Fabric-3.0.4.jar",
             "MD5": "06c32808f70eaa9f41bcc01c09509229",
-            "path": "mods/YungsBetterOceanMonuments-1.20-Fabric-3.0.4.jar"
+            "path": "mods_config/required/YungsBetterOceanMonuments-1.20-Fabric-3.0.4.jar"
           }
         },
         {
@@ -43406,9 +43417,9 @@
           "type": "File",
           "artifact": {
             "size": 611598,
-            "url": "http://localhost:8080/servers/hydro-cobblemon-1.20.1/files/mods/YungsBetterStrongholds-1.20-Fabric-4.0.3.jar",
+            "url": "http://localhost:8080/servers/hydro-cobblemon-1.20.1/files/mods_config/required/YungsBetterStrongholds-1.20-Fabric-4.0.3.jar",
             "MD5": "b0ca22280c7b931a7d3d9be028d3093c",
-            "path": "mods/YungsBetterStrongholds-1.20-Fabric-4.0.3.jar"
+            "path": "mods_config/required/YungsBetterStrongholds-1.20-Fabric-4.0.3.jar"
           }
         },
         {
@@ -43417,20 +43428,9 @@
           "type": "File",
           "artifact": {
             "size": 307196,
-            "url": "http://localhost:8080/servers/hydro-cobblemon-1.20.1/files/mods/YungsBetterWitchHuts-1.20-Fabric-3.0.3.jar",
+            "url": "http://localhost:8080/servers/hydro-cobblemon-1.20.1/files/mods_config/required/YungsBetterWitchHuts-1.20-Fabric-3.0.3.jar",
             "MD5": "afa25b703d976cde3d62c8f8d8a980a0",
-            "path": "mods/YungsBetterWitchHuts-1.20-Fabric-3.0.3.jar"
-          }
-        },
-        {
-          "id": "Zoomify-2.14.2+1.20.1.jar",
-          "name": "Zoomify-2.14.2+1.20.1.jar",
-          "type": "File",
-          "artifact": {
-            "size": 807877,
-            "url": "http://localhost:8080/servers/hydro-cobblemon-1.20.1/files/mods/Zoomify-2.14.2+1.20.1.jar",
-            "MD5": "57d42c12e06bf4c8bbdd3f2d14a786ba",
-            "path": "mods/Zoomify-2.14.2+1.20.1.jar"
+            "path": "mods_config/required/YungsBetterWitchHuts-1.20-Fabric-3.0.3.jar"
           }
         },
         {
