@@ -1,0 +1,21 @@
+# Custom Language File for Launcher Customizer
+
+[ejs.app]
+title = "Abyssoria Launcher"
+
+[ejs.landing]
+mediaGitHubURL = "https://github.com/HydroTuConnais/HydroLauncher.git"
+mediaXURL = "#"
+mediaInstagramURL = "#"
+mediaYouTubeURL = "#"
+mediaDiscordURL = "https://discord.gg/NYkK5cYgD9"
+
+[ejs.settings]
+sourceGithubLink = "https://github.com/HydroTuConnais/HydroLauncher.git"
+supportLink = "https://github.com/HydroTuConnais/HydroLauncher.git/issues"
+
+[ejs.welcome]
+welcomeHeader = "BIENVENUE CHEZ LES DINGUES DE WESTEROS"
+welcomeDescription = "Tu pensais juste lancer Minecraft tranquillou ? Raté. Ici, on reconstruit Westeros bloc par bloc, pixel par pixel, sueur par sueur. Des milliers de fans un peu fous (nous y compris) bossent jour et nuit pour te permettre de visiter Port-Réal, Winterfell, et même ce trou glacé au nord du Mur. Mets ta cape, range ton dragon, et évite de mourir dès ton premier jour, merci."
+welcomeDescCTA = "Clique, explore, et évite les Marcheurs Blancs."
+
