@@ -41586,14 +41586,14 @@
           }
         },
         {
-          "id": "Zoomify-2.14.2+1.20.1.jar.disabled",
-          "name": "Zoomify-2.14.2+1.20.1.jar.disabled",
+          "id": "Zoomify-2.14.2+1.20.1.jar",
+          "name": "Zoomify-2.14.2+1.20.1.jar",
           "type": "File",
           "artifact": {
             "size": 807877,
-            "url": "http://localhost:8080/servers/hydro-cobblemon-1.20.1/files/mods_config/optional/Zoomify-2.14.2+1.20.1.jar.disabled",
+            "url": "http://localhost:8080/servers/hydro-cobblemon-1.20.1/files/mods_config/optional/Zoomify-2.14.2+1.20.1.jar",
             "MD5": "57d42c12e06bf4c8bbdd3f2d14a786ba",
-            "path": "mods_config/optional/Zoomify-2.14.2+1.20.1.jar.disabled"
+            "path": "mods_config/optional/Zoomify-2.14.2+1.20.1.jar"
           }
         },
         {
