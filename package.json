@@ -70,6 +70,7 @@
       "libraries"
     ],
     "win": {
+    "icon": "C:\\Users\\antom\\Documents\\Dev\\Luncher\\HydroLauncher\\build\\SealCircle.ico",
       "target": [
         {
           "target": "nsis",

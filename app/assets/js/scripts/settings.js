@@ -1673,7 +1673,7 @@ async function resolveRequiredForUI(){
 
     const serv = (await DistroAPI.getDistribution()).getServerById(ConfigManager.getSelectedServer())
 
-    CACHE_SETTINGS_MODS_DIR = path.join(ConfigManager.getInstanceDirectory(), serv.rawServer.id, 'mods_config/required/')
+    CACHE_SETTINGS_MODS_DIR = path.join(ConfigManager.getInstanceDirectory(), serv.rawServer.id, 'mods')
 
     CACHE_DROPIN_MODS = DropinModUtil.scanForDropinMods(CACHE_SETTINGS_MODS_DIR, serv.rawServer.minecraftVersion)
 
@@ -1710,58 +1710,6 @@ async function resolveRequiredForUI(){
 
 
     document.getElementById('settingsReqModsContent').innerHTML = dropinMods
-
-}
-
-async function resolveFacultativeForUI(){
-
-    const serv = (await DistroAPI.getDistribution()).getServerById(ConfigManager.getSelectedServer())
-
-    CACHE_SETTINGS_MODS_DIR = path.join(ConfigManager.getInstanceDirectory(), serv.rawServer.id, 'mods_config/optional/')
-
-    CACHE_DROPIN_MODS = DropinModUtil.scanForDropinMods(CACHE_SETTINGS_MODS_DIR, serv.rawServer.minecraftVersion)
-
-
-
-    let dropinMods = ''
-
-
-    console.log("LENGTH", CACHE_DROPIN_MODS.length);
-    for(dropin of CACHE_DROPIN_MODS){
-
-        dropinMods += `<div id="${dropin.fullName}" class="settingsBaseMod settingsDropinMod" ${!dropin.disabled ? 'enabled' : ''}>
-
-                    <div class="settingsModContent">
-
-                        <div class="settingsModMainWrapper">
-
-                            <div class="settingsModStatus"></div>
-
-                            <div class="settingsModDetails">
-
-                                <span class="settingsModName">${dropin.name}</span>
-
-                            </div>
-
-                        </div>
-
-                        <label class="toggleSwitch">
-
-                            <input type="checkbox" formod="${dropin.fullName}" dropin ${!dropin.disabled ? 'checked' : ''}>
-
-                            <span class="toggleSwitchSlider"></span>
-
-                        </label>
-
-                    </div>
-
-                </div>`
-
-    }
-
-
-
-    document.getElementById('settingsOptModsContent').innerHTML = dropinMods
 
 }
 
@@ -1840,8 +1788,6 @@ document.addEventListener('keydown', async (e) => {
 async function reloadDropinMods(){
 
     await resolveRequiredForUI()
-
-    await resolveFacultativeForUI()
 
     bindDropinModsRemoveButton()
 
@@ -2140,8 +2086,6 @@ function animateSettingsTabRefresh(){
 async function prepareModsTab(first){
 
     await resolveRequiredForUI()
-
-    await resolveFacultativeForUI()
 
     await resolveShaderpacksForUI()
 

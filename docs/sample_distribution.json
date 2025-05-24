@@ -11,7 +11,7 @@
       "id": "hydro-cobblemon-1.20.1",
       "name": "hydro-cobblemon (Minecraft 1.20.1)",
       "description": "hydro-cobblemon Running Minecraft 1.20.1 (Fabric v0.16.14)",
-      "icon": null,
+      "icon": "https://cdn.discordapp.com/attachments/1235779756897734698/1375906448487350323/SealCircle.png?ex=6833643c&is=683212bc&hm=f531b351d42974d48577552b026e698e193893b476272564c43714929ada8846&",
       "version": "1.0.0",
       "address": "cobblemon.hydro-dev.ovh:25565",
       "minecraftVersion": "1.20.1",
@@ -20,8 +20,8 @@
         "largeImageText": "",
         "largeImageKey": ""
       },
-      "mainServer": false,
-      "autoconnect": false,
+      "mainServer": true,
+      "autoconnect": true,
       "modules": [
         {
           "id": "net.fabricmc:fabric-loader:0.16.9",
