@@ -51,8 +51,40 @@
     "type": "git",
     "url": "git+https://github.com/dscalzi/HeliosLauncher.git"
   },
-  "directories": {
-    "doc": "docs"
-  },
   "keywords": []
+  ,
+  "build": {
+    "appId": "AbyssoriaLauncher",
+    "productName": "Abyssoria Launcher",
+    "artifactName": "${productName}-setup-${version}.${ext}",
+    "asar": true,
+    "compression": "maximum",
+    "directories": {
+      "output": "dist",
+      "buildResources": "build"
+    },
+    "files": [
+      "!{dist,.gitignore,.vscode,docs,dev-app-update.yml,.nvmrc,.eslintrc.json}"
+    ],
+    "extraResources": [
+      "libraries"
+    ],
+    "win": {
+      "target": [
+        {
+          "target": "nsis",
+          "arch": [
+            "x64"
+          ]
+        }
+      ]
+    },
+    "nsis": {
+      "oneClick": false,
+      "perMachine": false,
+      "allowElevation": true,
+      "allowToChangeInstallationDirectory": true
+    }
+  }
+
 }

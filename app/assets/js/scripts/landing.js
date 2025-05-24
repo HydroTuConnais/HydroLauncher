@@ -611,8 +611,6 @@ async function dlAsync(login = true) {
             }
         }
 
-        await pb.syncRequiredModsBeforeLaunch();
-
         try {
             // Build Minecraft process.
             proc = pb.build()
