@@ -337,8 +337,26 @@ function getPlatformIcon(filename){
             ext = 'png'
             break
     }
-
-    return path.join(__dirname, 'app', 'assets', 'images', `${filename}.${ext}`)
+    
+    const iconPath = path.join(__dirname, 'app', 'assets', 'images', `${filename}.${ext}`)
+    console.log(`Trying to use icon at: ${iconPath}`)
+    
+    // Vérifier si le fichier existe
+    if (fs.existsSync(iconPath)) {
+        console.log(`Icon file exists!`)
+        // Vérifier la taille pour confirmer que ce n'est pas un fichier vide
+        const stats = fs.statSync(iconPath)
+        console.log(`Icon file size: ${stats.size} bytes`)
+        if (stats.size === 0) {
+            console.log(`⚠️ Warning: Icon file exists but is empty!`)
+        }
+    } else {
+        console.log(`Icon file does not exist!`)
+        // Fallback sur une icône par défaut d'Electron
+        return undefined
+    }
+    
+    return iconPath
 }
 
 app.on('ready', createWindow)

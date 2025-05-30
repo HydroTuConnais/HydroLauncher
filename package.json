@@ -2,7 +2,7 @@
   "name": "abyssorialauncher",
   "version": "2.2.1",
   "productName": "Abyssoria Launcher",
-  "description": "Modded Minecraft Launcher",
+  "description": "Abyssoria Launcher",
   "author": "",
   "license": "",
   "homepage": "",
@@ -69,8 +69,8 @@
     "extraResources": [
       "libraries"
     ],
+    "icon": "app/assets/images/ApplicationIcon.png",
     "win": {
-    "icon": "C:\\Users\\antom\\Documents\\Dev\\Luncher\\HydroLauncher\\build\\SealCircle.ico",
       "target": [
         {
           "target": "nsis",

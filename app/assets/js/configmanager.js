@@ -192,7 +192,7 @@ const DEFAULT_CONFIG = {
 
     clientToken: null,
 
-    selectedServer: null, // Resolved
+    selectedServer: "abyssoria.hydro-dev.ovh:25565",
 
     selectedAccount: null,
 

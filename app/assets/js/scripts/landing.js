@@ -100,6 +100,8 @@ function setLaunchEnabled(val){
 
 // Bind launch button
 document.getElementById('launch_button').addEventListener('click', async e => {
+    await DistroAPI.clearExtraMods();
+    
     if(proc == null){
         loggerLanding.info('Launching game..')
         try {
