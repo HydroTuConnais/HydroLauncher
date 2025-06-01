@@ -49,7 +49,7 @@ if(!isDev){
                 loggerAutoUpdater.info('New update available', info.version)
                 
                 if(process.platform === 'darwin'){
-                    info.darwindownload = `https://github.com/HydroTuConnais/HydroLauncher/releases/download/abyssoria/Abyssoria.Launcher-setup-${info.version}.exe`
+                    info.darwindownload = `https://github.com/HydroTuConnais/HydroLauncher/releases/download/abyssoria-${info.version}/Abyssoria.Launcher-setup-${info.version}.exe`
                     showUpdateUI(info)
                 }
                 
