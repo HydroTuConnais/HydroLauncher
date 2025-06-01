@@ -2,7 +2,7 @@
  * Script for landing.ejs
  */
 // Requirements
-const { URL }                 = require('url')
+//const { URL }                 = require('url')
 const {
     MojangRestAPI,
     getServerStatus

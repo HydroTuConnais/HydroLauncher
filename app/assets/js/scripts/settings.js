@@ -2727,7 +2727,7 @@ function populateReleaseNotes(){
 
     $.ajax({
 
-        url: 'https://github.com/dscalzi/HeliosLauncher/releases.atom',
+        url: 'https://github.com/HydroTuConnais/HydroLauncher/releases.atom',
 
         success: (data) => {
 

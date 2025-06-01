@@ -1,6 +1,6 @@
 {
   "name": "abyssorialauncher",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "productName": "Abyssoria Launcher",
   "description": "Abyssoria Launcher",
   "author": "",
@@ -49,7 +49,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/dscalzi/HeliosLauncher.git"
+    "url": "git+https://github.com/HydroTuConnais/HydroLauncher.git"
   },
   "keywords": []
   ,

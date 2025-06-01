@@ -24,6 +24,10 @@ function initAutoUpdater(event, data) {
     } else {
         // Defaults to true if application version contains prerelease components (e.g. 0.12.1-alpha.1)
         // autoUpdater.allowPrerelease = true
+        autoUpdater.setFeedURL({
+            provider: 'generic',
+            url: 'https://github.com/HydroTuConnais/HydroLauncher/releases/' // <-- Mets ici ton lien de releases
+        })
     }
     
     if(isDev){
